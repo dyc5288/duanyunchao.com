@@ -1,17 +1,47 @@
 <?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
 
-header('Content-Type: text/html; charset=utf-8');
-define('PATH_APP', '');
-require 'init.php';
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define('WP_USE_THEMES', true);
 
-if (is_wap())
+/**
+ * 判断是否手机访问
+ * 
+ * @return boolean
+ */
+function is_wap()
 {
-    header("Location:" . M_URL);
+    $ua     = strtolower($_SERVER['HTTP_USER_AGENT']);
+    $agent = "/(wap|iphone|ios|android)/i";
+    if (($ua == '' || preg_match($agent, $ua)) && !strpos(strtolower($_SERVER['REQUEST_URI']), 'wap'))
+    {
+        return true;
+    }
+    else
+    {
+        if (isset($_SERVER['HTTP_X_WAP_PROFILE']) || (isset($_SERVER['HTTP_VIA']) && stripos($_SERVER['HTTP_VIA'], 'wap') !== FALSE))
+        {
+	
+            return true; //from other mobile devices
+        }
+
+        return false;
+    }
 }
 
-// 控制器
-$GLOBALS['CT'] = empty($_GET['ctl']) ? (empty($_GET['ct']) ? 'index' : $_GET['ct']) : $_GET['ctl'];
-$GLOBALS['AC'] = empty($_GET['action']) ? (empty($_GET['ac']) ? 'index' : $_GET['ac']) : $_GET['action'];
+if(is_wap())
+{
+    header("Location:http://wap.duanyunchao.com");
+}
 
-execute_ctl('ctl_' . $GLOBALS['CT'], $GLOBALS['AC']);
-?>
+/** Loads the WordPress Environment and Template */
+require('./wp-blog-header.php');
