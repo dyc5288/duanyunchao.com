@@ -400,7 +400,7 @@ msgstr "评论(%)"
 
 #: templates/topnav.php:10
 msgid "You are not logged in!"
-msgstr "亲，欢迎来云朝博客！"
+msgstr "亲，欢迎来云朝空间！"
 
 #: templates/topnav.php:10
 msgid "register"
