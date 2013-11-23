@@ -110,7 +110,7 @@ $cls_iplocation = new cls_iplocation($GLOBALS['ip']);
 $countrycode = $cls_iplocation->get_countrycode();
 
 if ($countrycode != 'CN') {
-	exit('not allow');
+	//exit('not allow');
 }
 
 /**
