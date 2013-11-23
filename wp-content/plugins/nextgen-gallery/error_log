@@ -1,4 +1,0 @@
-[30-Oct-2012 05:02:20] PHP Warning:  Division by zero in /home/yunchao/public_html/wp-content/plugins/nextgen-gallery/lib/gd.thumbnail.inc.php on line 293
-[30-Oct-2012 05:02:21] PHP Warning:  Division by zero in /home/yunchao/public_html/wp-content/plugins/nextgen-gallery/lib/gd.thumbnail.inc.php on line 306
-[30-Oct-2012 05:02:21] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/yunchao/public_html/wp-content/plugins/nextgen-gallery/lib/gd.thumbnail.inc.php on line 436
-[30-Oct-2012 05:02:21] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/yunchao/public_html/wp-content/plugins/nextgen-gallery/lib/gd.thumbnail.inc.php on line 940

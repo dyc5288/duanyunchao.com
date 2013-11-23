@@ -8,7 +8,7 @@
           <li class="menu_line"/>
           <li><a class="<?php if(is_category('20')) {echo 'nav_on';} ?>" href="<?php echo get_settings('home'); ?>/?cat=20" target='_self'><span>资讯</span></a></li>
           <li class='menu_line'></li>
-          <li><a class="<?php if(is_category('1')) {echo 'nav_on';} ?>" href="<?php echo get_settings('home'); ?>/?cat=1" target='_self'><span>技术</span></a></li>
+          <li><a class="<?php if(is_category('1')) {echo 'nav_on';} ?>" href="<?php echo get_settings('home'); ?>/?cat=1" target='_self'><span>事业</span></a></li>
           <li class='menu_line'></li>
           <li><a class="<?php if(is_category('10')) {echo 'nav_on';} ?>" href="<?php echo get_settings('home'); ?>/?cat=10" target='_self'><span>生活</span></a></li>
           <li class='menu_line'></li>
