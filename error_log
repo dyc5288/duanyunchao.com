@@ -1,0 +1,28 @@
+[12-Oct-2012 01:56:12] PHP Fatal error:  Call to undefined function  is_wp_error() in /home/yunchao/public_html/wp-includes/load.php on line 368
+[12-Oct-2012 03:11:10] PHP Warning:  copy(/home/yunchao/public_html/avatar/0c7750e6f7c060f9f7f45dcc0813dea8.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/yunchao/public_html/wp-content/themes/perfctfull/functions.php on line 93
+[12-Oct-2012 03:11:10] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/yunchao/public_html/avatar/0c7750e6f7c060f9f7f45dcc0813dea8.jpg in /home/yunchao/public_html/wp-content/themes/perfctfull/functions.php on line 95
+[12-Oct-2012 03:11:10] PHP Warning:  copy(http://duanyunchao.com/avatar/default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/yunchao/public_html/wp-content/themes/perfctfull/functions.php on line 95
+[12-Oct-2012 03:11:10] PHP Warning:  copy(/home/yunchao/public_html/avatar/0c7750e6f7c060f9f7f45dcc0813dea8.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/yunchao/public_html/wp-content/themes/perfctfull/functions.php on line 93
+[12-Oct-2012 03:11:10] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/yunchao/public_html/avatar/0c7750e6f7c060f9f7f45dcc0813dea8.jpg in /home/yunchao/public_html/wp-content/themes/perfctfull/functions.php on line 95
+[12-Oct-2012 03:11:10] PHP Warning:  copy(http://duanyunchao.com/avatar/default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/yunchao/public_html/wp-content/themes/perfctfull/functions.php on line 95
+[12-Oct-2012 04:36:49] PHP Fatal error:  Call to undefined function  wp23_related_posts() in /home/yunchao/public_html/wp-content/themes/wp-cms/single.php on line 98
+[12-Oct-2012 04:37:24] PHP Fatal error:  Call to undefined function  wp23_related_posts() in /home/yunchao/public_html/wp-content/themes/wp-cms/single.php on line 98
+[12-Oct-2012 05:50:21] PHP Fatal error:  Call to undefined function  wp23_related_posts() in /home/yunchao/public_html/wp-content/themes/wp-cms/single.php on line 98
+[17-Oct-2012 18:02:57] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 603
+[18-Oct-2012 21:04:22] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 603
+[19-Oct-2012 04:29:47] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 603
+[19-Oct-2012 04:30:12] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 603
+[19-Oct-2012 04:30:19] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 603
+[19-Oct-2012 06:55:27] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 603
+[19-Oct-2012 13:42:00] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 603
+[22-Oct-2012 23:53:23] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 603
+[24-Oct-2012 18:13:47] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 607
+[27-Oct-2012 08:59:56] PHP Parse error:  syntax error, unexpected $end in /home/yunchao/public_html/wp-content/themes/wp-cms/single.php on line 154
+[28-Oct-2012 03:20:05] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 607
+[28-Oct-2012 03:20:26] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 607
+[28-Oct-2012 03:21:09] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 607
+[28-Oct-2012 03:22:06] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 607
+[28-Oct-2012 03:22:43] PHP Fatal error:  Call to undefined function  duanyunchao_comment_class() in /home/yunchao/public_html/wp-content/themes/wp-cms/functions.php on line 607
+[28-Oct-2012 14:28:25] PHP Parse error:  syntax error, unexpected '}' in /home/yunchao/public_html/wp-content/themes/wp-cms/single.php on line 57

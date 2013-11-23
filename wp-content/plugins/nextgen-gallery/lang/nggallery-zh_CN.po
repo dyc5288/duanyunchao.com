@@ -1,0 +1,3829 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-23 18:02+0100\n"
+"PO-Revision-Date: 2012-09-05 11:51+0800\n"
+"Last-Translator: Joe <tkjune@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __ngettext:1,2;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../nggallery.php:100
+msgid ""
+"<strong>Translation by : </strong><a target=\"_blank\" href=\"http://"
+"alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">See here</a>"
+msgstr ""
+"<strong>翻译者: <a target=\"_blank\" href=\"http://tkjune.com\">Joe Tse"
+"(tkjune)</a></strong> / <a target=\"_blank\" href=\"http://alexrabe.de/"
+"wordpress-plugins/nextgen-gallery/languages/\">查看其他语言包</a>"
+
+#: ../nggallery.php:101
+msgid ""
+"<strong>This translation is not yet updated for Version 1.9.0</strong>. If "
+"you would like to help with translation, download the current po from the "
+"plugin folder and read <a href=\"http://alexrabe.de/wordpress-plugins/"
+"wordtube/translation-of-plugins/\">here</a> how you can translate the plugin."
+msgstr ""
+"<strong>简体中文语言包由<a href=\"http://tkjune.com\">Joe Tse(tkjune)</a>更新"
+"至1.9.6</strong>。最新版本将在<a target=\"_blank\" href=\"http://tkjune."
+"com/2009/04/13/simplified-chinese-language-pack-for-nextgen-gallery/\">这里</"
+"a>更新。"
+
+#: ../nggallery.php:205
+msgid ""
+"Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB or higher"
+msgstr ""
+"对不起，NextGEN Gallery 只能运行在内存限制(Memory Limit)为16M或以上的环境中"
+
+#: ../nggallery.php:225
+msgid "Please update the database of NextGEN Gallery."
+msgstr "请升级NextGEN Gallery的数据库"
+
+#: ../nggallery.php:225
+msgid "Click here to proceed."
+msgstr "点击这里继续"
+
+#: ../nggallery.php:248
+msgid "Picture tag"
+msgstr "图片标签"
+
+#: ../nggallery.php:249
+msgid "Picture tag: %2$l."
+msgstr "图片标签: %2$l."
+
+#: ../nggallery.php:250
+msgid "Separate picture tags with commas."
+msgstr "使用逗号分隔图片标签"
+
+#: ../nggallery.php:357 ../admin/admin.php:256
+msgid "L O A D I N G"
+msgstr "正在载入…"
+
+#: ../nggallery.php:358 ../admin/admin.php:257
+msgid "Click to Close"
+msgstr "点击关闭"
+
+#: ../nggallery.php:379
+msgid "loading"
+msgstr "载入中…"
+
+#: ../nggallery.php:517 ../nggfunctions.php:941 ../admin/admin.php:37
+#: ../admin/admin.php:79
+msgid "Overview"
+msgstr "总览"
+
+#: ../nggallery.php:518
+msgid "Get help"
+msgstr "获得帮助"
+
+#: ../nggallery.php:519
+msgid "Contribute"
+msgstr "贡献"
+
+#: ../nggallery.php:520
+msgid "Donate"
+msgstr "捐献"
+
+#: ../nggfunctions.php:42
+msgid ""
+"The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> "
+"and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript "
+"support</a> are needed."
+msgstr ""
+"需要<a href=\"http://www.macromedia.com/go/getflashplayer\">安装Flash插件</a>"
+"和<a href=\"http://www.mozilla.com/firefox/\">支持Javascript的浏览器</a>…"
+
+#: ../nggfunctions.php:164 ../nggfunctions.php:642
+msgid "[Gallery not found]"
+msgstr "[未找到图集]"
+
+#: ../nggfunctions.php:450
+msgid "[Album not found]"
+msgstr "[未找到相册]"
+
+#: ../nggfunctions.php:771
+msgid "[SinglePic not found]"
+msgstr "[未找到单张图片]"
+
+#: ../nggfunctions.php:906
+msgid "Related images for"
+msgstr "图片相关于"
+
+#: ../admin/about.php:10
+msgid "Copyright notes / Credits"
+msgstr "版权 / 感谢"
+
+#: ../admin/about.php:13
+msgid "NextGEN DEV Team"
+msgstr "NextGEN 开发团队"
+
+#: ../admin/about.php:15
+msgid ""
+"This plugin is primarily developed, maintained, supported, documented by"
+msgstr "本插件的主要开发、维护、支持和文档的提供者是"
+
+#: ../admin/about.php:15
+msgid ""
+"There are many other folks who have made contributions to this project :"
+msgstr "有很多人为此项目作出了贡献："
+
+#: ../admin/about.php:20
+msgid "Contributors / Tribute to"
+msgstr "赞助人员 / 贡献成员"
+
+#: ../admin/about.php:22
+msgid ""
+"If you study the code of this plugin, you will find out that we mixed a lot "
+"of good already existing code and ideas together."
+msgstr "如果你仔细研究这个插件的代码，将发现我们融合了不少优秀的代码和构思。"
+
+#: ../admin/about.php:23
+msgid ""
+"So, we would like to thank the following people for their pioneer work "
+"(without this work it's impossible to create such a plugin so fast)"
+msgstr ""
+"对以下先驱人士，我们感激不尽（没有他们，恐怕我们很难如此迅速地开发出这个插件"
+"来）："
+
+#: ../admin/about.php:25
+msgid "for their great documented code"
+msgstr "提供精心注解的程序代码 "
+
+#: ../admin/about.php:26
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "提供jQuery，最棒的Web2.0框架 "
+
+#: ../admin/about.php:27
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "提供出色的PHP缩略图类"
+
+#: ../admin/about.php:28
+msgid "for a lot of very useful plugins and ideas"
+msgstr "提供许多有用的插件和构思"
+
+#: ../admin/about.php:29
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "提供Shutter Reloaded ── 一个真正轻巧的图片效果"
+
+#: ../admin/about.php:30
+msgid "for the best Media Flash Scripts on earth"
+msgstr "提供世界上最棒的Flash媒体程序"
+
+#: ../admin/about.php:31
+msgid "for the Gallery Icon"
+msgstr "图集图标"
+
+#: ../admin/about.php:32
+msgid "for the Watermark plugin"
+msgstr "提供水印插件支持"
+
+#: ../admin/about.php:34
+msgid ""
+"If you didn't find your name on this list and there is some code which I "
+"integrate in my plugin, don't hesitate to send me a mail."
+msgstr ""
+"如果你开发的代码被我们整合在这个插件中，却没有在列单上发现你的名字，请立即发"
+"送Email与我们联系。"
+
+#: ../admin/about.php:38
+msgid "How to support ?"
+msgstr "如何支持我们？"
+
+#: ../admin/about.php:40
+msgid ""
+"There exist several ways to contribute, help or support us in this work. Non "
+"of them are mandatory."
+msgstr "有以下几个方式支持我们的工作，但都不是强制的。"
+
+#: ../admin/about.php:42
+msgid "Send us bugfixes / code changes"
+msgstr "提出错误 / 代码修改"
+
+#: ../admin/about.php:42
+msgid ""
+"The most motivated support for this plugin are your ideas and brain work"
+msgstr "对这个插件最有力的支持就是你的想法和创意。"
+
+#: ../admin/about.php:43
+msgid "Translate the plugin"
+msgstr "插件翻译"
+
+#: ../admin/about.php:43
+msgid ""
+"To help people to work with this plugin, I would like to have it in all "
+"available languages"
+msgstr "为了帮助更多人使用这个插件, 我们希望它支持所有语言。"
+
+#: ../admin/about.php:44
+msgid "Donate the work via paypal"
+msgstr "通过 paypal 捐款"
+
+#: ../admin/about.php:57
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "这是非常简单且有用的动力:-)"
+
+#: ../admin/about.php:59
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "在您的Blog和网站放置本插件的链接"
+
+#: ../admin/about.php:59
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "当然了，Trackback和分享都是很好的支持方式 "
+
+#: ../admin/about.php:64
+msgid "Thanks!"
+msgstr "感谢！"
+
+#: ../admin/about.php:66
+msgid "We would like to thank this people which support us in the work :"
+msgstr "我们感谢以下在工作中支持我们的人们："
+
+#: ../admin/about.php:166
+msgid "and all donators..."
+msgstr "全部捐助者…"
+
+#: ../admin/addgallery.php:46 ../admin/addgallery.php:57
+#: ../admin/addgallery.php:69 ../admin/addgallery.php:80 ../admin/album.php:96
+#: ../admin/album.php:124 ../admin/album.php:142
+#: ../admin/edit-thumbnail.php:19 ../admin/edit-thumbnail.php:22
+#: ../admin/manage.php:186
+msgid "Cheatin&#8217; uh?"
+msgstr "耍花招吗?"
+
+#: ../admin/addgallery.php:62
+msgid "Upload failed!"
+msgstr "上传失败"
+
+#: ../admin/addgallery.php:85 ../admin/addgallery.php:93
+msgid "Upload failed! "
+msgstr "上传失败"
+
+#: ../admin/addgallery.php:90 ../admin/functions.php:943
+#: ../admin/functions.php:1043
+msgid "No gallery selected !"
+msgstr "没有选择图集"
+
+#: ../admin/addgallery.php:180 ../admin/addgallery.php:263
+msgid "Image Files"
+msgstr "图片文件"
+
+#: ../admin/addgallery.php:195 ../admin/addgallery.php:284
+#: ../admin/addgallery.php:312
+msgid "remove"
+msgstr "删除"
+
+#: ../admin/addgallery.php:196 ../admin/addgallery.php:285
+#: ../admin/addgallery.php:466
+msgid "Browse..."
+msgstr "浏览…"
+
+#: ../admin/addgallery.php:197 ../admin/addgallery.php:235
+#: ../admin/addgallery.php:286 ../admin/addgallery.php:298
+#: ../admin/addgallery.php:537
+msgid "Upload images"
+msgstr "上传图片"
+
+#: ../admin/addgallery.php:376 ../admin/addgallery.php:484
+msgid "Upload Images"
+msgstr "上传图片"
+
+#: ../admin/addgallery.php:379 ../admin/addgallery.php:396
+#: ../admin/manage-galleries.php:119 ../admin/manage-galleries.php:156
+msgid "Add new gallery"
+msgstr "新增图集"
+
+#: ../admin/addgallery.php:382 ../admin/addgallery.php:418
+msgid "Upload a Zip-File"
+msgstr "上传 ZIP 压缩文件"
+
+#: ../admin/addgallery.php:385 ../admin/addgallery.php:460
+msgid "Import image folder"
+msgstr "导入图片目录"
+
+#: ../admin/addgallery.php:401 ../admin/manage-galleries.php:279
+msgid "New Gallery"
+msgstr "新增图集"
+
+#: ../admin/addgallery.php:404 ../admin/manage-galleries.php:281
+msgid "Create a new , empty gallery below the folder"
+msgstr "在该目录下建立一个新的图集"
+
+#: ../admin/addgallery.php:406 ../admin/manage-galleries.php:283
+msgid "Allowed characters for file and folder names are"
+msgstr "允许的文件和目录的名称是"
+
+#: ../admin/addgallery.php:410
+msgid "Add gallery"
+msgstr "新增图集"
+
+#: ../admin/addgallery.php:423
+msgid "Select Zip-File"
+msgstr "选择压缩文件"
+
+#: ../admin/addgallery.php:425
+msgid "Upload a zip file with images"
+msgstr "上传包含图片的ZIP压缩包"
+
+#: ../admin/addgallery.php:429
+msgid "or enter a Zip-File URL"
+msgstr "或者输入一个ZIP文件的网址"
+
+#: ../admin/addgallery.php:431
+msgid "Import a zip file with images from a url"
+msgstr "从URL网址导入包含图片的ZIP压缩文件"
+
+#: ../admin/addgallery.php:435 ../admin/addgallery.php:512
+msgid "in to"
+msgstr "到"
+
+#: ../admin/addgallery.php:437
+msgid "a new gallery"
+msgstr "新图集"
+
+#: ../admin/addgallery.php:448
+msgid "Note : The upload limit on your server is "
+msgstr "注意 : 服务器上传文件限制大小为"
+
+#: ../admin/addgallery.php:452
+msgid "Start upload"
+msgstr "开始上传"
+
+#: ../admin/addgallery.php:465
+msgid "Import from Server path:"
+msgstr "从服务器路径导入"
+
+#: ../admin/addgallery.php:468
+msgid "Note : Change the default path in the gallery settings"
+msgstr "说明：可以在图集设置里修改默认路径"
+
+#: ../admin/addgallery.php:470
+msgid ""
+" Please note : For safe-mode = ON you need to add the subfolder thumbs "
+"manually"
+msgstr "注意：安全模式开启时，你必须手动增加缩略图的目录"
+
+#: ../admin/addgallery.php:473
+msgid "Import folder"
+msgstr "导入目录"
+
+#: ../admin/addgallery.php:490
+msgid "Upload image"
+msgstr "上传图片"
+
+#: ../admin/addgallery.php:495
+msgid "Choose files to upload"
+msgstr "选择要上传的文件"
+
+#: ../admin/addgallery.php:496
+msgid "Select Files"
+msgstr "选择文件"
+
+#: ../admin/addgallery.php:498
+msgid "Or you can drop the files into this window."
+msgstr "或者你可以将文件拖入这个窗口."
+
+#: ../admin/addgallery.php:501
+#, php-format
+msgid "Scale images to max width %1$dpx or max height %2$dpx"
+msgstr "缩放图片至最大宽度%1$dpx或最大高度%2$dpx"
+
+#: ../admin/addgallery.php:514
+msgid "Choose gallery"
+msgstr "选择图集"
+
+#: ../admin/addgallery.php:533
+msgid ""
+"The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "批量上传需要使用 Adoble Flash 10, 如果有问题请关闭"
+
+#: ../admin/addgallery.php:533
+msgid "Disable flash upload"
+msgstr "禁用Flash上传"
+
+#: ../admin/addgallery.php:535
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "按住ctrl/shift键同时选择多个文件上传"
+
+#: ../admin/addgallery.php:535
+msgid "Enable flash based upload"
+msgstr "启用Flash上传"
+
+#: ../admin/admin.php:36 ../admin/admin.php:59 ../admin/admin.php:78
+#: ../admin/admin.php:352 ../admin/admin.php:444 ../admin/functions.php:178
+#: ../admin/manage-galleries.php:127 ../admin/manage-galleries.php:407
+#: ../admin/manage-images.php:239
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "图集"
+msgstr[1] "图集"
+
+#: ../admin/admin.php:38 ../admin/admin.php:81
+msgid "Add Gallery / Images"
+msgstr "新增图集/图片"
+
+#: ../admin/admin.php:39 ../admin/admin.php:83
+msgid "Manage Gallery"
+msgstr "管理图集"
+
+#: ../admin/admin.php:40 ../admin/admin.php:85
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "相册"
+msgstr[1] "相册"
+
+#: ../admin/admin.php:41 ../admin/admin.php:87
+msgid "Tags"
+msgstr "标签"
+
+#: ../admin/admin.php:42 ../admin/admin.php:89
+msgid "Options"
+msgstr "选项"
+
+#: ../admin/admin.php:44 ../admin/admin.php:91
+msgid "Style"
+msgstr "样式"
+
+#: ../admin/admin.php:46
+msgid "Roles"
+msgstr "权限"
+
+#: ../admin/admin.php:47
+msgid "About this Gallery"
+msgstr "关于此图集"
+
+#: ../admin/admin.php:47 ../admin/admin.php:92
+msgid "About"
+msgstr "关于"
+
+#: ../admin/admin.php:50 ../admin/admin.php:61
+msgid "Reset / Uninstall"
+msgstr "重置/卸载"
+
+#: ../admin/admin.php:60
+msgid "Network settings"
+msgstr "网络设置"
+
+#: ../admin/admin.php:131
+#, php-format
+msgid ""
+"Thanks for using this plugin, I hope you are satisfied ! If you would like "
+"to support the further development, please consider a <strong><a href=\"%s"
+"\">donation</a></strong>! If you still need some help, please post your "
+"questions <a href=\"http://wordpress.org/tags/nextgen-gallery?"
+"forum_id=10\">here</a> ."
+msgstr ""
+"感谢使用此插件, 希望你满意! 如果你愿意提供研发支持, 请考虑<strong><a href="
+"\"%s\">捐赠</a></strong>! 如果你需要其他帮助, 请将问题提交到<a href=\"http://"
+"wordpress.org/tags/nextgen-gallery?forum_id=10\">这里</a>."
+
+#: ../admin/admin.php:134
+msgid "OK, hide this message now !"
+msgstr "好的, 隐藏此消息."
+
+#: ../admin/admin.php:213
+msgid "You do not have the correct permission"
+msgstr "未获得相应授权"
+
+#: ../admin/admin.php:214
+msgid "Unexpected Error"
+msgstr "意外错误"
+
+#: ../admin/admin.php:215
+msgid "A failure occurred"
+msgstr "发生了一个错误"
+
+#: ../admin/admin.php:219
+msgid "You have attempted to queue too many files."
+msgstr "你已经在队列中放置了太多文件"
+
+#: ../admin/admin.php:220
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "上传的文件大小超出了此网站的最大限制"
+
+#: ../admin/admin.php:221
+msgid "This file is empty. Please try another."
+msgstr "文件是空的, 请尝试其他文件"
+
+#: ../admin/admin.php:222
+msgid "This file type is not allowed. Please try another."
+msgstr "不允许上传此格式的文件, 请尝试其他文件"
+
+#: ../admin/admin.php:223
+msgid "This file is not an image. Please try another."
+msgstr "此文件不是图片, 请尝试其他文件"
+
+#: ../admin/admin.php:224
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "超出内存限制. 请尝试小一些的文件"
+
+#: ../admin/admin.php:225
+msgid "This is larger than the maximum size. Please try another."
+msgstr "文件大小超出了最大限制, 请尝试其他文件"
+
+#: ../admin/admin.php:226
+msgid "An error occurred in the upload. Please try again later."
+msgstr "上传时出现错误, 请稍候重试"
+
+#: ../admin/admin.php:227
+msgid ""
+"There was a configuration error. Please contact the server administrator."
+msgstr "出现配置错误, 请联系服务器管理员"
+
+#: ../admin/admin.php:228
+msgid "You may only upload 1 file."
+msgstr "你只可以上传1个文件"
+
+#: ../admin/admin.php:229
+msgid "HTTP error."
+msgstr "HTTP错误"
+
+#: ../admin/admin.php:230
+msgid "Upload failed."
+msgstr "上传失败"
+
+#: ../admin/admin.php:231
+msgid "IO error."
+msgstr "IO错误"
+
+#: ../admin/admin.php:232
+msgid "Security error."
+msgstr "安全错误"
+
+#: ../admin/admin.php:233
+msgid "File canceled."
+msgstr "文件取消"
+
+#: ../admin/admin.php:234
+msgid "Upload stopped."
+msgstr "上传停止"
+
+#: ../admin/admin.php:235
+msgid "Dismiss"
+msgstr "解除"
+
+#: ../admin/admin.php:236
+msgid "Crunching&hellip;"
+msgstr "粉碎中&hellip;"
+
+#: ../admin/admin.php:237
+msgid "moved to the trash."
+msgstr "移动至垃圾筒"
+
+#: ../admin/admin.php:238
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload due to an error"
+msgstr "发生错误, &#8220;%s&#8221; 上传失败"
+
+#: ../admin/admin.php:356
+msgid ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">Introduction</a>"
+msgstr ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">介绍</a>"
+
+#: ../admin/admin.php:359
+msgid ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">Setup</a>"
+msgstr ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">安装</a>"
+
+#: ../admin/admin.php:362
+msgid ""
+"<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" "
+"target=\"_blank\">Translation by alex rabe</a>"
+msgstr ""
+"<a href=\"http://tkjune.com\" target=\"_blank\">Joe Tse(tkjune)翻译</a>"
+
+#: ../admin/admin.php:365
+msgid ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">角色/权限</a>"
+
+#: ../admin/admin.php:368
+msgid ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">Styles</a>"
+msgstr ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">样式</a>"
+
+#: ../admin/admin.php:369
+msgid "Templates"
+msgstr "模板"
+
+#: ../admin/admin.php:372 ../admin/admin.php:378
+msgid ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">图集管理</a>"
+
+#: ../admin/admin.php:373
+msgid "Gallery example"
+msgstr "图集示例"
+
+#: ../admin/admin.php:379 ../admin/admin.php:389
+msgid "Gallery tags"
+msgstr "图集标签"
+
+#: ../admin/admin.php:382
+msgid ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">Album management</a>"
+msgstr ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">相册管理</a>"
+
+#: ../admin/admin.php:383
+msgid "Album example"
+msgstr "相册示例"
+
+#: ../admin/admin.php:384 ../admin/admin.php:390
+msgid "Album tags"
+msgstr "相册标签"
+
+#: ../admin/admin.php:387
+msgid ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-"
+"introduction/\" target=\"_blank\">图集标签</a>"
+
+#: ../admin/admin.php:388
+msgid "Related images"
+msgstr "相关图片"
+
+#: ../admin/admin.php:393
+msgid ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-"
+"management/\" target=\"_blank\">Image management</a>"
+msgstr ""
+"<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-"
+"management/\" target=\"_blank\">图片管理</a>"
+
+#: ../admin/admin.php:394
+msgid "Custom fields"
+msgstr "自定义域"
+
+#: ../admin/admin.php:399
+msgid "Get help with NextGEN Gallery"
+msgstr "获得 NextGEN Gallery 的使用帮助"
+
+#: ../admin/admin.php:403
+msgid "More Help & Info"
+msgstr "更多帮助和信息"
+
+#: ../admin/admin.php:405
+msgid ""
+"<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target="
+"\"_blank\">Support Forums</a>"
+msgstr ""
+"<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target="
+"\"_blank\">论坛支持</a>"
+
+#: ../admin/admin.php:406
+msgid "FAQ"
+msgstr "常见问题"
+
+#: ../admin/admin.php:407
+msgid "Feature request"
+msgstr "功能需求"
+
+#: ../admin/admin.php:408
+msgid "Get your language pack"
+msgstr "获取语言包"
+
+#: ../admin/admin.php:409
+msgid "Contribute development"
+msgstr "开发贡献"
+
+#: ../admin/admin.php:410
+msgid "Download latest version"
+msgstr "下载最新版本"
+
+#: ../admin/ajax.php:312
+msgid "You are not allowed to be here"
+msgstr "你无权访问这里"
+
+#: ../admin/ajax.php:410
+#, php-format
+msgid "Could create image with %s x %s pixel"
+msgstr "可以创建分辨率为%s x %s的图片"
+
+#: ../admin/album.php:102 ../admin/album.php:117 ../admin/album.php:158
+msgid "Update Successfully"
+msgstr "更新成功"
+
+#: ../admin/album.php:131
+msgid "Album deleted"
+msgstr "相册已删除"
+
+#: ../admin/album.php:269
+msgid "Edit Album"
+msgstr "编辑相册"
+
+#: ../admin/album.php:278
+msgid "Manage Albums"
+msgstr "管理相册"
+
+#: ../admin/album.php:284 ../admin/album.php:333
+msgid "Select album"
+msgstr "选择相册"
+
+#: ../admin/album.php:286
+msgid "No album selected"
+msgstr "没有选择相册"
+
+#: ../admin/album.php:297 ../admin/edit-thumbnail.php:155
+msgid "Update"
+msgstr "更新"
+
+#: ../admin/album.php:299
+msgid "Edit album"
+msgstr "编辑相册"
+
+#: ../admin/album.php:302 ../admin/manage-galleries.php:146
+#: ../admin/manage-images.php:448
+msgid "Delete"
+msgstr "删除"
+
+#: ../admin/album.php:306
+msgid "Add new album"
+msgstr "新增相册"
+
+#: ../admin/album.php:308
+msgid "Add"
+msgstr "新增"
+
+#: ../admin/album.php:319
+msgid "Show / hide used galleries"
+msgstr "显示/隐藏使用过的图集"
+
+#: ../admin/album.php:319
+msgid "[Show all]"
+msgstr "[全部显示]"
+
+#: ../admin/album.php:320
+msgid "Maximize the widget content"
+msgstr "最大化小工具内容"
+
+#: ../admin/album.php:320
+msgid "[Maximize]"
+msgstr "[最大化]"
+
+#: ../admin/album.php:321
+msgid "Minimize the widget content"
+msgstr "最小化小工具内容"
+
+#: ../admin/album.php:321
+msgid "[Minimize]"
+msgstr "[最小化]"
+
+#: ../admin/album.php:323
+msgid ""
+"After you create and select a album, you can drag and drop a gallery or "
+"another album into your new album below"
+msgstr "在创建并选择了相册之后，你可以把图集或相册拖曳到下面的新相册里来 "
+
+#: ../admin/album.php:349
+msgid "Select gallery"
+msgstr "选择图集"
+
+#: ../admin/album.php:378
+msgid "Album ID"
+msgstr "相册ID"
+
+#: ../admin/album.php:391
+msgid "No album selected!"
+msgstr "没有选择相册！"
+
+#: ../admin/album.php:411
+msgid "Album name:"
+msgstr "相册名称:"
+
+#: ../admin/album.php:417
+msgid "Album description:"
+msgstr "相册描述:"
+
+#: ../admin/album.php:423
+msgid "Select a preview image:"
+msgstr "选择预览图片:"
+
+#: ../admin/album.php:426 ../admin/album.php:429
+msgid "No picture"
+msgstr "没有图片"
+
+#: ../admin/album.php:440 ../admin/manage-images.php:257
+msgid "Page Link to"
+msgstr "页面链接到"
+
+#: ../admin/album.php:442 ../admin/manage-images.php:260
+msgid "Not linked"
+msgstr "尚未链接"
+
+#: ../admin/album.php:455 ../admin/manage-galleries.php:288
+#: ../admin/manage-galleries.php:317 ../admin/manage-galleries.php:347
+#: ../admin/manage-images.php:533 ../admin/manage-images.php:569
+#: ../admin/manage-images.php:598 ../admin/manage-images.php:628
+msgid "OK"
+msgstr "确定"
+
+#: ../admin/album.php:457 ../admin/manage-galleries.php:290
+#: ../admin/manage-galleries.php:319 ../admin/manage-galleries.php:349
+#: ../admin/manage-images.php:535 ../admin/manage-images.php:571
+#: ../admin/manage-images.php:600 ../admin/manage-images.php:630
+msgid "Cancel"
+msgstr "取消"
+
+#: ../admin/album.php:543
+msgid "Name"
+msgstr "名称"
+
+#: ../admin/album.php:544 ../admin/manage-images.php:255
+msgid "Title"
+msgstr "标题"
+
+#: ../admin/album.php:545
+msgid "Page"
+msgstr "页面"
+
+#: ../admin/edit-thumbnail.php:105
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "用鼠标选择生成新缩略图的区域"
+
+#: ../admin/edit-thumbnail.php:119
+msgid "Thumbnail updated"
+msgstr "缩略图已更新"
+
+#: ../admin/edit-thumbnail.php:124
+msgid "Error updating thumbnail"
+msgstr "更新缩略图出错"
+
+#: ../admin/edit-thumbnail.php:140
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "从左侧图片中选择生成缩略图的区域"
+
+#: ../admin/functions.php:39
+msgid "No valid gallery name!"
+msgstr "无效的图集名称"
+
+#: ../admin/functions.php:46 ../admin/functions.php:55
+#: ../admin/functions.php:80 ../admin/functions.php:149
+#: ../admin/functions.php:157
+msgid "Directory"
+msgstr "目录"
+
+#: ../admin/functions.php:46
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "不存在。请建立第一个主图集目录"
+
+#: ../admin/functions.php:47 ../admin/functions.php:56
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "如果你不知道如何设置权限请点这里:"
+
+#: ../admin/functions.php:55 ../admin/functions.php:80
+msgid "is not writeable !"
+msgstr "无法写入!"
+
+#: ../admin/functions.php:76 ../admin/functions.php:85
+#: ../admin/functions.php:902
+msgid "Unable to create directory "
+msgstr "无法建立目录"
+
+#: ../admin/functions.php:89
+msgid "The server setting Safe-Mode is on !"
+msgstr "服务器安全模式为开启 !"
+
+#: ../admin/functions.php:90
+msgid "If you have problems, please create directory"
+msgstr "如果遇到问题,请建立目录"
+
+#: ../admin/functions.php:91
+msgid "and the thumbnails directory"
+msgstr "和缩略图目录"
+
+#: ../admin/functions.php:91
+msgid "with permission 777 manually !"
+msgstr "手动将权限修改为 777"
+
+#: ../admin/functions.php:116
+#, php-format
+msgid ""
+"Gallery ID %1$s successfully created. You can show this gallery in your post "
+"or page with the shortcode %2$s.<br/>"
+msgstr "创建图集 %1$s 成功.<br/>你可以通过标签 %2$s 来显示图集.<br/>"
+
+#: ../admin/functions.php:119 ../admin/functions.php:217
+msgid "Edit gallery"
+msgstr "编辑图集"
+
+#: ../admin/functions.php:149
+msgid "doesn&#96;t exist!"
+msgstr "不存在!"
+
+#: ../admin/functions.php:157
+msgid "contains no pictures"
+msgstr "没有图片"
+
+#: ../admin/functions.php:175
+msgid "Database error. Could not add gallery!"
+msgstr "数据库错误，无法新增图集"
+
+#: ../admin/functions.php:178
+msgid "successfully created!"
+msgstr "创建成功"
+
+#: ../admin/functions.php:212 ../admin/functions.php:1019
+#: ../admin/manage-galleries.php:81 ../admin/manage-galleries.php:148
+#: ../admin/manage-images.php:203 ../admin/manage-images.php:342
+#: ../admin/manage.php:223 ../admin/manage.php:299
+msgid "Create new thumbnails"
+msgstr "重建缩略图"
+
+#: ../admin/functions.php:215
+msgid " picture(s) successfully added"
+msgstr "张图片添加成功"
+
+#: ../admin/functions.php:270 ../admin/functions.php:350
+#: ../admin/functions.php:405 ../admin/functions.php:502
+#: ../admin/functions.php:556
+msgid "Object didn't contain correct data"
+msgstr "对象未包含正确数据"
+
+#: ../admin/functions.php:278
+msgid " is not writeable "
+msgstr "无法写入"
+
+#: ../admin/functions.php:360 ../admin/functions.php:408
+#: ../admin/functions.php:508 ../admin/functions.php:559
+msgid " is not writeable"
+msgstr "无法写入"
+
+#: ../admin/functions.php:562
+msgid "File do not exists"
+msgstr "文件不存在"
+
+#: ../admin/functions.php:566
+msgid "Couldn't restore original image"
+msgstr "不能恢复原始图片"
+
+#: ../admin/functions.php:682
+msgid "(Error : Couldn't not update data base)"
+msgstr "(错误: 不能更新数据库)"
+
+#: ../admin/functions.php:689
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(错误: 不难更新Meta信息)"
+
+#: ../admin/functions.php:698
+msgid "(Error : Couldn't not find image)"
+msgstr "(错误: 不能找到图片)"
+
+#: ../admin/functions.php:836
+msgid "No valid URL path "
+msgstr "无效的URL地址"
+
+#: ../admin/functions.php:852
+msgid "Import via cURL failed."
+msgstr "从 cURL 导入失败"
+
+#: ../admin/functions.php:869
+msgid "Uploaded file was no or a faulty zip file ! The server recognized : "
+msgstr "上传的文件不是ZIP文件或文件受损!系统识别为:"
+
+#: ../admin/functions.php:886
+msgid "Could not get a valid foldername"
+msgstr "不能获取有效的目录名"
+
+#: ../admin/functions.php:897
+#, php-format
+msgid ""
+"Unable to create directory %s. Is its parent directory writable by the "
+"server?"
+msgstr "无法创建目录 %s. 它的上层目录是可写的吗?"
+
+#: ../admin/functions.php:912
+msgid "Zip-File successfully unpacked"
+msgstr "Zip文件解压缩成功"
+
+#: ../admin/functions.php:951 ../admin/functions.php:1068
+msgid "Failure in database, no gallery path set !"
+msgstr "数据库错误, 没有设置图集路径!"
+
+#: ../admin/functions.php:975 ../admin/functions.php:1062
+msgid "is no valid image file!"
+msgstr "不是正确的图片文件"
+
+#: ../admin/functions.php:989 ../admin/functions.php:1187
+#: ../admin/functions.php:1264
+#, php-format
+msgid ""
+"Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "无法写入目录 %s. 这个目录是可写的吗?"
+
+#: ../admin/functions.php:996 ../admin/functions.php:1085
+msgid "Error, the file could not be moved to : "
+msgstr "错误，文件无法移动到:"
+
+#: ../admin/functions.php:1001 ../admin/functions.php:1089
+msgid "Error, the file permissions could not be set"
+msgstr "错误，文件权限无法设置"
+
+#: ../admin/functions.php:1024
+msgid " Image(s) successfully added"
+msgstr "张图片添加成功"
+
+#: ../admin/functions.php:1051
+msgid "Invalid upload. Error Code : "
+msgstr "无效上传,错误代码："
+
+#: ../admin/functions.php:1127
+#, php-format
+msgid ""
+"SAFE MODE Restriction in effect! You need to create the folder <strong>%s</"
+"strong> manually"
+msgstr "由于 安全模式 的影响. 你必须手动创建目录 <strong>%s</strong>"
+
+#: ../admin/functions.php:1128
+#, php-format
+msgid ""
+"When safe_mode is on, PHP checks to see if the owner (%s) of the current "
+"script matches the owner (%s) of the file to be operated on by a file "
+"function or its directory"
+msgstr ""
+"当 安全模式 开启时, PHP 将检查程序执行者(%s) 与文件拥有者 (%s) 是否一样, 经由"
+"文件或是目录的管理设定"
+
+#: ../admin/functions.php:1181 ../admin/functions.php:1258
+msgid "The destination gallery does not exist"
+msgstr "目标图集不存在"
+
+#: ../admin/functions.php:1212
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "从 %1$s 向 %2$s 移动图片失败"
+
+#: ../admin/functions.php:1232
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "将 %1$s 张图片移至了图集: %2$s ."
+
+#: ../admin/functions.php:1291
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "从 %1$s 向 %2$s 复制图片失败"
+
+#: ../admin/functions.php:1305
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "为图片 %s 复制数据行时失败"
+
+#: ../admin/functions.php:1317
+#, php-format
+msgid ""
+"Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already "
+"existed in the destination gallery."
+msgstr "图片 %1$s (%2$s) 复制为 %3$s (%4$s) &raquo; 文件已在目标图集中存在."
+
+#: ../admin/functions.php:1320
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "图片 %1$s (%2$s) 复制为 %3$s (%4$s)"
+
+#: ../admin/functions.php:1329
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "复制了 %1$s 张图片到图集: %2$s ."
+
+#: ../admin/functions.php:1437
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "上传文件超出php.ini中upload_max_filesize的设置限制"
+
+#: ../admin/functions.php:1440
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr "上传文件超出HTML表单中MAX_FILE_SIZE的设置限制"
+
+#: ../admin/functions.php:1443
+msgid "The uploaded file was only partially uploaded"
+msgstr "上传文件未被完整传送"
+
+#: ../admin/functions.php:1446
+msgid "No file was uploaded"
+msgstr "文件未上传"
+
+#: ../admin/functions.php:1449
+msgid "Missing a temporary folder"
+msgstr "缺少临时文件夹"
+
+#: ../admin/functions.php:1452
+msgid "Failed to write file to disk"
+msgstr "向磁盘写入文件失败"
+
+#: ../admin/functions.php:1455
+msgid "File upload stopped by extension"
+msgstr "上传文件因扩展名限制而中止"
+
+#: ../admin/functions.php:1458
+msgid "Unknown upload error"
+msgstr "未知上传错误"
+
+#: ../admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "对不起，NextGEN Gallery 只能在管理员权限下运行"
+
+#: ../admin/install.php:112
+msgid ""
+"NextGEN Gallery : Tables could not created, please check your database "
+"settings"
+msgstr "NextGEN Gallery : 无法建立数据库，请检查数据库设置"
+
+#: ../admin/install.php:170
+msgid "[Show as slideshow]"
+msgstr "[幻灯片方式显示]"
+
+#: ../admin/install.php:171
+msgid "[Show picture list]"
+msgstr "[图片列表展示]"
+
+#: ../admin/manage-galleries.php:69 ../admin/manage-images.php:171
+msgid "No images selected"
+msgstr "没有选择图片"
+
+#: ../admin/manage-galleries.php:77 ../admin/manage-galleries.php:149
+#: ../admin/manage-images.php:199 ../admin/manage-images.php:343
+#: ../admin/manage.php:207 ../admin/manage.php:285
+msgid "Resize images"
+msgstr "调整图片大小"
+
+#: ../admin/manage-galleries.php:86
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"你将开始批量编辑 %s 张图片 \n"
+" \n"
+"选择 ' 取消 ' 停止，' 确定 ' 执行"
+
+#: ../admin/manage-galleries.php:130 ../admin/manage-galleries.php:133
+#: ../admin/manage-images.php:225 ../admin/manage-images.php:228
+msgid "Search Images"
+msgstr "搜索图片"
+
+#: ../admin/manage-galleries.php:145 ../admin/manage-images.php:340
+msgid "Bulk actions"
+msgstr "批处理"
+
+#: ../admin/manage-galleries.php:147 ../admin/manage-images.php:341
+#: ../admin/manage.php:140 ../admin/manage.php:249
+msgid "Set watermark"
+msgstr "添加水印"
+
+#: ../admin/manage-galleries.php:150 ../admin/manage-images.php:346
+#: ../admin/manage.php:145 ../admin/manage.php:269
+msgid "Import metadata"
+msgstr "导入Meta信息"
+
+#: ../admin/manage-galleries.php:151 ../admin/manage-images.php:344
+#: ../admin/manage.php:135 ../admin/manage.php:246
+msgid "Recover from backup"
+msgstr "从备份中恢复"
+
+#: ../admin/manage-galleries.php:153 ../admin/manage-images.php:355
+msgid "Apply"
+msgstr "应用"
+
+#: ../admin/manage-galleries.php:220
+msgid "Edit"
+msgstr "编辑"
+
+#: ../admin/manage-galleries.php:261 ../admin/manage-images.php:506
+msgid "No entries found"
+msgstr "找不到项目"
+
+#: ../admin/manage-galleries.php:308 ../admin/manage-images.php:589
+msgid "Resize Images to"
+msgstr "调整图片大小至"
+
+#: ../admin/manage-galleries.php:312 ../admin/manage-images.php:593
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "宽 x 高 ( 像素 )，NextGEN Gallery 将固定图片长宽比"
+
+#: ../admin/manage-galleries.php:336 ../admin/manage-images.php:617
+msgid "Width x height (in pixel)"
+msgstr "宽度 x 高度 (像素)"
+
+#: ../admin/manage-galleries.php:338 ../admin/manage-images.php:619
+msgid "These values are maximum values "
+msgstr "这些值已是最大值"
+
+#: ../admin/manage-galleries.php:341 ../admin/manage-images.php:622
+msgid "Set fix dimension"
+msgstr "设置固定尺寸"
+
+#: ../admin/manage-galleries.php:343 ../admin/manage-images.php:624
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "忽略纵横比例，不生成宽高不一的缩略图"
+
+#: ../admin/manage-galleries.php:406 ../admin/manage-images.php:694
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/manage-galleries.php:408 ../admin/manage-images.php:266
+#: ../admin/manage-images.php:697
+msgid "Description"
+msgstr "描述"
+
+#: ../admin/manage-galleries.php:409 ../admin/manage-images.php:295
+msgid "Author"
+msgstr "作者"
+
+#: ../admin/manage-galleries.php:410
+msgid "Page ID"
+msgstr "页面ID"
+
+#: ../admin/manage-galleries.php:411
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "图片"
+msgstr[1] "图片"
+
+#: ../admin/manage-images.php:34
+msgid "Gallery not found."
+msgstr "未找到图集"
+
+#: ../admin/manage-images.php:40
+msgid "Sorry, you have no access here"
+msgstr "抱歉，你未获得权限"
+
+#: ../admin/manage-images.php:179
+msgid "Copy image to..."
+msgstr "复制到…"
+
+#: ../admin/manage-images.php:183
+msgid "Move image to..."
+msgstr "移动到…"
+
+#: ../admin/manage-images.php:187
+msgid "Add new tags"
+msgstr "新增标签"
+
+#: ../admin/manage-images.php:191 ../admin/manage-images.php:352
+msgid "Delete tags"
+msgstr "删除标签"
+
+#: ../admin/manage-images.php:195
+msgid "Overwrite"
+msgstr "覆盖"
+
+#: ../admin/manage-images.php:208
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"你将开始批量编辑 %s 张图片 \n"
+" \n"
+"选择 ' 取消 ' 停止，' 确定 ' 执行"
+
+#: ../admin/manage-images.php:222
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "搜索 &#8220;%s&#8221; 的结果"
+
+#: ../admin/manage-images.php:251
+msgid "Gallery settings"
+msgstr "图集设置"
+
+#: ../admin/manage-images.php:251
+msgid "Click here for more settings"
+msgstr "更多设置请点击这里"
+
+#: ../admin/manage-images.php:268
+msgid "Preview image"
+msgstr "预览图片"
+
+#: ../admin/manage-images.php:271
+msgid "No Picture"
+msgstr "没有图片"
+
+#: ../admin/manage-images.php:293
+msgid "Path"
+msgstr "路经"
+
+#: ../admin/manage-images.php:310
+msgid "Create new page"
+msgstr "新建页面"
+
+#: ../admin/manage-images.php:313
+msgid "Main page (No parent)"
+msgstr "主页面(无上级)"
+
+#: ../admin/manage-images.php:316
+msgid "Add page"
+msgstr "新增页面"
+
+#: ../admin/manage-images.php:325
+msgid "Scan Folder for new images"
+msgstr "扫描目录中的新图"
+
+#: ../admin/manage-images.php:326 ../admin/manage-images.php:361
+#: ../admin/manage-images.php:513
+msgid "Save Changes"
+msgstr "保存修改"
+
+#: ../admin/manage-images.php:345
+msgid "Delete images"
+msgstr "删除图片"
+
+#: ../admin/manage-images.php:347
+msgid "Rotate images clockwise"
+msgstr "顺时针旋转图片"
+
+#: ../admin/manage-images.php:348
+msgid "Rotate images counter-clockwise"
+msgstr "逆时针旋转图片"
+
+#: ../admin/manage-images.php:349
+msgid "Copy to..."
+msgstr "复制到..."
+
+#: ../admin/manage-images.php:350
+msgid "Move to..."
+msgstr "移动到..."
+
+#: ../admin/manage-images.php:351
+msgid "Add tags"
+msgstr "新增标签"
+
+#: ../admin/manage-images.php:353
+msgid "Overwrite tags"
+msgstr "改写标签"
+
+#: ../admin/manage-images.php:358
+msgid "Sort gallery"
+msgstr "排列图集"
+
+#: ../admin/manage-images.php:434
+msgid "pixel"
+msgstr "像素"
+
+#: ../admin/manage-images.php:440
+#, php-format
+msgid "View \"%s\""
+msgstr "查看 \"%s\""
+
+#: ../admin/manage-images.php:440
+msgid "View"
+msgstr "查看"
+
+#: ../admin/manage-images.php:441
+msgid "Show Meta data"
+msgstr "显示Meta信息"
+
+#: ../admin/manage-images.php:441
+msgid "Meta"
+msgstr "Meta信息"
+
+#: ../admin/manage-images.php:442
+msgid "Customize thumbnail"
+msgstr "自定义缩略图"
+
+#: ../admin/manage-images.php:442
+msgid "Edit thumb"
+msgstr "编辑缩略图"
+
+#: ../admin/manage-images.php:443
+msgid "Rotate"
+msgstr "旋转"
+
+#: ../admin/manage-images.php:445
+msgid "Publish this image"
+msgstr "发布这张图片"
+
+#: ../admin/manage-images.php:445
+msgid "Publish"
+msgstr "发布"
+
+#: ../admin/manage-images.php:447
+msgid "Recover"
+msgstr "恢复"
+
+#: ../admin/manage-images.php:447
+#, php-format
+msgid "Recover \"%s\" ?"
+msgstr "恢复 \"%s\" ?"
+
+#: ../admin/manage-images.php:448
+#, php-format
+msgid "Delete \"%s\" ?"
+msgstr "删除 \"%s\" ?"
+
+#: ../admin/manage-images.php:529
+msgid "Enter the tags"
+msgstr "输入标签"
+
+#: ../admin/manage-images.php:553
+msgid "Select the destination gallery:"
+msgstr "选择目标图集:"
+
+#: ../admin/manage-images.php:695
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: ../admin/manage-images.php:696 ../admin/manage-sort.php:77
+msgid "Filename"
+msgstr "文件名"
+
+#: ../admin/manage-images.php:697
+msgid "Alt &amp; Title Text"
+msgstr "显示标题"
+
+#: ../admin/manage-images.php:698
+msgid "Tags (comma separated list)"
+msgstr "标签(用逗号\",\"分隔)"
+
+#: ../admin/manage-images.php:699
+msgid "exclude"
+msgstr "排除"
+
+#: ../admin/manage-sort.php:33
+msgid "Sort order changed"
+msgstr "改变排列顺序"
+
+#: ../admin/manage-sort.php:62
+msgid "Sort Gallery"
+msgstr "排列图集"
+
+#: ../admin/manage-sort.php:66
+msgid "Update Sort Order"
+msgstr "更新排列顺序"
+
+#: ../admin/manage-sort.php:69
+msgid "Back to gallery"
+msgstr "返回图集"
+
+#: ../admin/manage-sort.php:74
+msgid "Presort"
+msgstr "预排序"
+
+#: ../admin/manage-sort.php:75
+msgid "Unsorted"
+msgstr "未排序的"
+
+#: ../admin/manage-sort.php:76
+msgid "Image ID"
+msgstr "图片 ID"
+
+#: ../admin/manage-sort.php:78
+msgid "Alt/Title text"
+msgstr "显示标题"
+
+#: ../admin/manage-sort.php:79
+msgid "Date/Time"
+msgstr "日期/时间"
+
+#: ../admin/manage-sort.php:80
+msgid "Ascending"
+msgstr "递增"
+
+#: ../admin/manage-sort.php:81
+msgid "Descending"
+msgstr "递减"
+
+#: ../admin/manage.php:84
+msgid "Picture"
+msgstr "图片"
+
+#: ../admin/manage.php:84
+msgid "deleted successfully"
+msgstr "删除成功"
+
+#: ../admin/manage.php:99 ../admin/manage.php:108
+msgid "Operation successful. Please clear your browser cache."
+msgstr "操作成功. 请清除浏览器缓存"
+
+#: ../admin/manage.php:175
+msgid "Gallery deleted successfully "
+msgstr "删除图集成功"
+
+#: ../admin/manage.php:240 ../admin/manage.php:243
+msgid "Rotate images"
+msgstr "旋转图片"
+
+#: ../admin/manage.php:265
+msgid "Pictures deleted successfully "
+msgstr "图片删除成功"
+
+#: ../admin/manage.php:361
+msgid "Tags changed"
+msgstr "标签已经修改"
+
+#: ../admin/manage.php:397
+msgid "Update successful"
+msgstr "更新成功"
+
+#: ../admin/manage.php:432
+msgid "New gallery page ID"
+msgstr "新的图集页面"
+
+#: ../admin/manage.php:432
+msgid "created"
+msgstr "建立"
+
+#: ../admin/manage.php:468
+msgid "Published a new post"
+msgstr "已发布新文章"
+
+#: ../admin/manage.php:582
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1项"
+msgstr[1] "%s项"
+
+#: ../admin/media-upload.php:11
+msgid "NextGEN Gallery"
+msgstr "NextGEN Gallery"
+
+#: ../admin/media-upload.php:166
+msgid "No gallery"
+msgstr "没有图集"
+
+#: ../admin/media-upload.php:178
+msgid "Select &#187;"
+msgstr "选择 &#187;"
+
+#: ../admin/media-upload.php:209
+msgid "Show"
+msgstr "显示"
+
+#: ../admin/media-upload.php:210
+msgid "Hide"
+msgstr "隐藏"
+
+#: ../admin/media-upload.php:215
+msgid "Image ID:"
+msgstr "图片 ID"
+
+#: ../admin/media-upload.php:229 ../admin/publish.php:55
+msgid "Alignment"
+msgstr "对齐"
+
+#: ../admin/media-upload.php:232 ../admin/publish.php:57
+#: ../admin/settings.php:480
+msgid "None"
+msgstr "不显示"
+
+#: ../admin/media-upload.php:234 ../admin/publish.php:59
+#: ../admin/tinymce/window.php:120
+msgid "Left"
+msgstr "左"
+
+#: ../admin/media-upload.php:236 ../admin/publish.php:61
+#: ../admin/tinymce/window.php:121
+msgid "Center"
+msgstr "中"
+
+#: ../admin/media-upload.php:238 ../admin/publish.php:63
+#: ../admin/tinymce/window.php:122
+msgid "Right"
+msgstr "右"
+
+#: ../admin/media-upload.php:242 ../admin/settings.php:587
+msgid "Size"
+msgstr "字号"
+
+#: ../admin/media-upload.php:248
+msgid "Full size"
+msgstr "原始大小"
+
+#: ../admin/media-upload.php:250
+msgid "Singlepic"
+msgstr "单张图片"
+
+#: ../admin/media-upload.php:263
+msgid "Insert into Post"
+msgstr "插入到文章"
+
+#: ../admin/media-upload.php:274
+msgid "Save all changes"
+msgstr "保存所有更新"
+
+#: ../admin/overview.php:14
+msgid "NextGEN Gallery Overview"
+msgstr "NextGEN Gallery 总览"
+
+#: ../admin/overview.php:86
+msgid "Welcome to NextGEN Gallery !"
+msgstr "欢迎使用 NextGEN Gallery !"
+
+#: ../admin/overview.php:87
+msgid "Do you like this Plugin?"
+msgstr "你喜欢这个插件吗？"
+
+#: ../admin/overview.php:89
+msgid "Translation"
+msgstr "翻译"
+
+#: ../admin/overview.php:90
+msgid "Latest News"
+msgstr "最新消息"
+
+#: ../admin/overview.php:91
+msgid "Recent donators"
+msgstr "最近赞助者"
+
+#: ../admin/overview.php:93
+msgid "Plugin Check"
+msgstr "插件检查"
+
+#: ../admin/overview.php:94
+msgid "Server Settings"
+msgstr "服务器设置"
+
+#: ../admin/overview.php:95
+msgid "Related plugins"
+msgstr "相关插件"
+
+#: ../admin/overview.php:101
+#, php-format
+msgid ""
+"This plugin is primarily developed, maintained, supported and documented by "
+"<a href=\"%s\">Alex Rabe</a> with a lot of love & effort. Any kind of "
+"contribution would be highly appreciated. Thanks!"
+msgstr ""
+"这个插件由 <a href=\"%s\" target=\"_blank\">Alex Rabe</a> 主力开发和维护，提"
+"供技术和文档支持，倾注了热爱与努力。十分感谢你提供各种方式的支持！"
+
+#: ../admin/overview.php:106
+msgid "Give it a good rating on WordPress.org."
+msgstr "在WordPress.org上给予好评"
+
+#: ../admin/overview.php:111
+msgid "Donate the work via paypal."
+msgstr "通过 paypal 捐款"
+
+#: ../admin/overview.php:116
+msgid "Help translating it."
+msgstr "协助翻译"
+
+#: ../admin/overview.php:252
+msgid "Running..."
+msgstr "运行中..."
+
+#: ../admin/overview.php:299
+msgid "Check plugin/theme conflict"
+msgstr "检查插件/主题冲突"
+
+#: ../admin/overview.php:300 ../admin/overview.php:306
+#: ../admin/overview.php:312
+msgid "Not tested"
+msgstr "没有测试"
+
+#: ../admin/overview.php:301
+msgid "No conflict could be detected"
+msgstr "未检测到到冲突"
+
+#: ../admin/overview.php:302
+msgid "Test failed, disable other plugins & switch to default theme"
+msgstr "测试失败, 禁用其他插件并切换至默认主题"
+
+#: ../admin/overview.php:305
+msgid "Test image function"
+msgstr "测试图片功能"
+
+#: ../admin/overview.php:307
+msgid "The plugin could create images"
+msgstr "插件可以创建图片"
+
+#: ../admin/overview.php:308
+msgid "Couldn't create image, check your memory limit"
+msgstr "不能创建图片, 请检查内存限制"
+
+#: ../admin/overview.php:311
+msgid "Check theme compatibility"
+msgstr "检查主题兼容性"
+
+#: ../admin/overview.php:313
+msgid "Your theme should work fine with NextGEN Gallery"
+msgstr "NextGEN Gallery可以在你的主题中正常工作"
+
+#: ../admin/overview.php:314
+msgid "wp_head()/wp_footer() is missing, contact the theme author"
+msgstr "缺少wp_head()/wp_footer(), 请联系主题作者"
+
+#: ../admin/overview.php:318
+msgid "Check plugin"
+msgstr "检查插件"
+
+#: ../admin/overview.php:339
+msgid "Graphic Library"
+msgstr "图库"
+
+#: ../admin/overview.php:355 ../admin/overview.php:404
+#: ../admin/overview.php:591 ../admin/overview.php:781
+msgid "Loading&#8230;"
+msgstr "载入中&#8230;"
+
+#: ../admin/overview.php:355 ../admin/overview.php:404
+#: ../admin/overview.php:591 ../admin/overview.php:781
+msgid "This widget requires JavaScript."
+msgstr "此小工具需要JavaScript支持"
+
+#: ../admin/overview.php:368
+msgid "Thanks to all donators..."
+msgstr "感谢所有赞助者…"
+
+#: ../admin/overview.php:390
+msgid "View all"
+msgstr "查看全部"
+
+#: ../admin/overview.php:416
+#, php-format
+msgid ""
+"Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to "
+"check for updates."
+msgstr "Newsfeed 无法载入，请到 <a href=\"%s\">首页</a> 检查更新"
+
+#: ../admin/overview.php:428
+msgid "Untitled"
+msgstr "未命名的"
+
+#: ../admin/overview.php:478
+msgid "At a Glance"
+msgstr "概览"
+
+#: ../admin/overview.php:504
+msgid "Upload pictures"
+msgstr "上传图片"
+
+#: ../admin/overview.php:505
+msgid "Here you can control your images, galleries and albums."
+msgstr "在这里你可以控制你的图片、图集和相册。"
+
+#: ../admin/overview.php:535
+msgid "Storage Space"
+msgstr "上传空间"
+
+#: ../admin/overview.php:539
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+msgstr "<a href=\"%1$s\" title=\"管理上传文件\" class=\"musublink\">%2$sMB</a>"
+
+#: ../admin/overview.php:540
+msgid "Space Allowed"
+msgstr "可用空间"
+
+#: ../admin/overview.php:547
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)"
+"</a>"
+msgstr ""
+"<a href=\"%1$s\" title=\"管理上传文件\" class=\"musublink\">%2$sMB (%3$s%%)</"
+"a>"
+
+#: ../admin/overview.php:548
+msgid "Space Used"
+msgstr "已使用空间"
+
+#: ../admin/overview.php:577
+msgid "Translation file successful updated. Please reload page."
+msgstr "翻译文件更新完成. 请刷新页面"
+
+#: ../admin/overview.php:579
+msgid "Reload page"
+msgstr "刷新页面"
+
+#: ../admin/overview.php:584
+msgid "Translation file couldn't be updated"
+msgstr "翻译文件未能更新"
+
+#: ../admin/overview.php:621
+msgid "Download"
+msgstr "下载"
+
+#: ../admin/overview.php:650
+msgid "No GD support"
+msgstr "不支持 GD"
+
+#: ../admin/overview.php:662 ../admin/overview.php:708
+#: ../admin/overview.php:711 ../admin/overview.php:714
+msgid "Yes"
+msgstr "是"
+
+#: ../admin/overview.php:664 ../admin/overview.php:709
+#: ../admin/overview.php:712 ../admin/overview.php:715
+msgid "No"
+msgstr "否"
+
+#: ../admin/overview.php:682
+msgid "Not set"
+msgstr "没有设置"
+
+#: ../admin/overview.php:684 ../admin/overview.php:687
+msgid "On"
+msgstr "开启"
+
+#: ../admin/overview.php:685 ../admin/overview.php:688
+msgid "Off"
+msgstr "关闭"
+
+#: ../admin/overview.php:691 ../admin/overview.php:694
+#: ../admin/overview.php:697 ../admin/overview.php:700
+#: ../admin/overview.php:703 ../admin/overview.php:706
+msgid "N/A"
+msgstr "N/A"
+
+#: ../admin/overview.php:705
+msgid " MByte"
+msgstr " MByte"
+
+#: ../admin/overview.php:718
+msgid "Operating System"
+msgstr "系统"
+
+#: ../admin/overview.php:719
+msgid "Server"
+msgstr "服务器"
+
+#: ../admin/overview.php:720
+msgid "Memory usage"
+msgstr "内存使用量"
+
+#: ../admin/overview.php:721
+msgid "MYSQL Version"
+msgstr "MYSQL 版本"
+
+#: ../admin/overview.php:722
+msgid "SQL Mode"
+msgstr "SQL 模式"
+
+#: ../admin/overview.php:723
+msgid "PHP Version"
+msgstr "PHP 版本"
+
+#: ../admin/overview.php:724
+msgid "PHP Safe Mode"
+msgstr "PHP 安全模式"
+
+#: ../admin/overview.php:725
+msgid "PHP Allow URL fopen"
+msgstr "PHP 允许 URL fopen"
+
+#: ../admin/overview.php:726
+msgid "PHP Memory Limit"
+msgstr "PHP 内存限制"
+
+#: ../admin/overview.php:727
+msgid "PHP Max Upload Size"
+msgstr "PHP 最大上传大小"
+
+#: ../admin/overview.php:728
+msgid "PHP Max Post Size"
+msgstr "PHP 最大Post大小"
+
+#: ../admin/overview.php:729
+msgid "PCRE Backtracking Limit"
+msgstr "PCRE Backtracking 限制"
+
+#: ../admin/overview.php:730
+msgid "PHP Max Script Execute Time"
+msgstr "PHP 脚本超时限制"
+
+#: ../admin/overview.php:731
+msgid "PHP Exif support"
+msgstr "PHP Exif 支持"
+
+#: ../admin/overview.php:732
+msgid "PHP IPTC support"
+msgstr "PHP IPTC 支持"
+
+#: ../admin/overview.php:733
+msgid "PHP XML support"
+msgstr "PHP XML 支持"
+
+#: ../admin/overview.php:745
+msgid ""
+"NextGEN Gallery contains some functions which are only available under PHP "
+"5.2. You are using the old PHP 4 version, upgrade now! It's no longer "
+"supported by the PHP group. Many shared hosting providers offer both PHP 4 "
+"and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr ""
+"NextGEN Gallery包含一些仅可在PHP 5.2环境下使用的功能. 你正在使用旧的PHP 4版"
+"本, 请升级! PHP组织已经不再提供对它的支持. 很多服务器提供商同时支持PHP 4和"
+"PHP 5, 可以同时运行. 请向服务提供商询问是否支持."
+
+#: ../admin/overview.php:841
+msgid "Install"
+msgstr "安装"
+
+#: ../admin/pointer.php:22
+msgid ""
+"<h3>Client side resize</h3><p>You can now resize the images before you start "
+"with the upload.</p>"
+msgstr "<h3>客户端调整大小</h3><p>你可以上传前调整图片的大小</p>"
+
+#: ../admin/publish.php:45
+msgid "Post title"
+msgstr "文章标题"
+
+#: ../admin/publish.php:47
+msgid "Enter the post title "
+msgstr "输入文章标题"
+
+#: ../admin/publish.php:52
+msgid "Size of the image"
+msgstr "图片大小"
+
+#: ../admin/publish.php:70
+msgid "Draft"
+msgstr "草稿"
+
+#: ../admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "权限更新"
+
+#: ../admin/roles.php:28
+msgid "Roles / capabilities"
+msgstr "权限/功能"
+
+#: ../admin/roles.php:29
+msgid ""
+"Select the lowest role which should be able to access the following "
+"capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr ""
+"为以下功能选择最低权限的角色，NextGEN gallery支持所有 WordPress 里的标准权限"
+
+#: ../admin/roles.php:30
+msgid "For a more flexible user management you can use the"
+msgstr "如果需要更具弹性的使用者管理系统你可以使用"
+
+#: ../admin/roles.php:35
+msgid "Main NextGEN Gallery overview"
+msgstr "NextGEN Gallery 总览"
+
+#: ../admin/roles.php:39
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "使用 TinyMCE 编辑器的按钮或上传的标签"
+
+#: ../admin/roles.php:43
+msgid "Add gallery / Upload images"
+msgstr "新增图集/上传图片"
+
+#: ../admin/roles.php:47
+msgid "Manage gallery"
+msgstr "管理图集"
+
+#: ../admin/roles.php:51
+msgid "Manage others gallery"
+msgstr "管理其他图集"
+
+#: ../admin/roles.php:55
+msgid "Manage tags"
+msgstr "管理标签"
+
+#: ../admin/roles.php:63
+msgid "Change style"
+msgstr "改变样式"
+
+#: ../admin/roles.php:67
+msgid "Change options"
+msgstr "改变设置"
+
+#: ../admin/roles.php:71
+msgid "Update capabilities"
+msgstr "更新权限"
+
+#: ../admin/rotate.php:55
+msgid "Image rotated"
+msgstr "图片已旋转"
+
+#: ../admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "旋转缩略图出错."
+
+#: ../admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "90&deg; 顺时针旋转"
+
+#: ../admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "90&deg; 逆时针旋转"
+
+#: ../admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "垂直翻转"
+
+#: ../admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "水平翻转"
+
+#: ../admin/settings.php:97
+msgid "Cache cleared"
+msgstr "清除缓存完成"
+
+#: ../admin/settings.php:217 ../admin/settings.php:236
+msgid "General Options"
+msgstr "一般选项"
+
+#: ../admin/settings.php:218 ../admin/settings.php:417
+msgid "Thumbnails"
+msgstr "缩略图"
+
+#: ../admin/settings.php:219
+msgid "Images"
+msgstr "图片"
+
+#: ../admin/settings.php:221 ../admin/settings.php:469
+msgid "Effects"
+msgstr "效果"
+
+#: ../admin/settings.php:222 ../admin/settings.php:511
+#: ../admin/tinymce/window.php:110
+msgid "Watermark"
+msgstr "水印"
+
+#: ../admin/settings.php:223 ../admin/settings.php:418
+#: ../admin/settings.php:618 ../admin/tinymce/window.php:63
+msgid "Slideshow"
+msgstr "幻灯片"
+
+#: ../admin/settings.php:242 ../admin/wpmu.php:68
+msgid "Gallery path"
+msgstr "图集路经"
+
+#: ../admin/settings.php:244
+msgid "This is the default path for all galleries"
+msgstr "所有图集的预设路经"
+
+#: ../admin/settings.php:247
+msgid "Delete image files"
+msgstr "删除图片文件"
+
+#: ../admin/settings.php:249
+msgid "Delete files, when removing a gallery in the database"
+msgstr "删除图集数据的同时删除文件"
+
+#: ../admin/settings.php:252
+msgid "Activate permalinks"
+msgstr "使用固定链接"
+
+#: ../admin/settings.php:254
+msgid ""
+"When you activate this option, you need to update your permalink structure "
+"one time."
+msgstr "启用固定链接需要更新固定链接结构"
+
+#: ../admin/settings.php:255
+msgid "Gallery slug name :"
+msgstr "图集别名"
+
+#: ../admin/settings.php:259
+msgid "Create new URL friendly image slugs"
+msgstr "创建新的URL友好的图片别名"
+
+#: ../admin/settings.php:260 ../admin/settings.php:371
+msgid "Proceed now"
+msgstr "立即进行"
+
+#: ../admin/settings.php:263
+msgid "Select graphic library"
+msgstr "选择图片库"
+
+#: ../admin/settings.php:264
+msgid "GD Library"
+msgstr "GD库"
+
+#: ../admin/settings.php:265
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick(测试中). 路径："
+
+#: ../admin/settings.php:270
+msgid "Activate Media RSS feed"
+msgstr "启用资讯RSS"
+
+#: ../admin/settings.php:272
+msgid ""
+"A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "在页头加入RSS feed. 对于CoolIris/PicLens有用"
+
+#: ../admin/settings.php:275
+msgid "Activate PicLens/CoolIris support"
+msgstr "激活PicLens/CoolIris支持"
+
+#: ../admin/settings.php:277
+msgid ""
+"When you activate this option, some javascript is added to your site footer. "
+"Make sure that wp_footer is called in your theme."
+msgstr ""
+"当激活此选项,在站点页脚会加入一些javascript.请确认主题中使用了wp_footer."
+
+#: ../admin/settings.php:280
+msgid "Tags / Categories"
+msgstr "标签/分类"
+
+#: ../admin/settings.php:283
+msgid "Activate related images"
+msgstr "启用关联图片"
+
+#: ../admin/settings.php:285
+msgid "This option will append related images to every post"
+msgstr "启用这个选项会向日志中添加关联图片"
+
+#: ../admin/settings.php:289
+msgid "Match with"
+msgstr "匹配方式"
+
+#: ../admin/settings.php:290
+msgid "Categories"
+msgstr "分类"
+
+#: ../admin/settings.php:295
+msgid "Max. number of images"
+msgstr "最多显示图片的数量"
+
+#: ../admin/settings.php:297
+msgid "0 will show all images"
+msgstr "0 将显示所有图片"
+
+#: ../admin/settings.php:301 ../admin/settings.php:332
+#: ../admin/settings.php:374 ../admin/settings.php:459
+#: ../admin/settings.php:494 ../admin/settings.php:755
+msgid "More settings"
+msgstr "更多设置"
+
+#: ../admin/settings.php:311
+msgid "Thumbnail settings"
+msgstr "缩略图设置"
+
+#: ../admin/settings.php:315
+msgid ""
+"Please note : If you change the settings, you need to recreate the "
+"thumbnails under -> Manage Gallery ."
+msgstr "请注意: 如果改变设置, 需要到[管理图集]中重建缩略图"
+
+#: ../admin/settings.php:328
+msgid "Thumbnail quality"
+msgstr "缩略图品质"
+
+#: ../admin/settings.php:342
+msgid "Image settings"
+msgstr "图片设置"
+
+#: ../admin/settings.php:348
+msgid "Resize Images"
+msgstr "调整图片大小"
+
+#: ../admin/settings.php:353
+msgid "Image quality"
+msgstr "图片质量"
+
+#: ../admin/settings.php:357
+msgid "Backup original images"
+msgstr "备份原始图片"
+
+#: ../admin/settings.php:359
+msgid "Creates a backup for inserted images"
+msgstr "为插入的图片创建备份"
+
+#: ../admin/settings.php:362
+msgid "Automatically resize"
+msgstr "自动缩放"
+
+#: ../admin/settings.php:364
+msgid "Automatically resize images on upload."
+msgstr "上传时自动缩放图片"
+
+#: ../admin/settings.php:367
+msgid "Single picture"
+msgstr "单张图片"
+
+#: ../admin/settings.php:370
+msgid "Clear cache folder"
+msgstr "清除缓存"
+
+#: ../admin/settings.php:391
+msgid "Deactivate gallery page link"
+msgstr "取消图集页面链接"
+
+#: ../admin/settings.php:393
+msgid ""
+"The album will not link to a gallery subpage. The gallery is shown on the "
+"same page."
+msgstr "相册不会链接到图集页面，而是在同一页面下显示."
+
+#: ../admin/settings.php:397
+msgid "Number of images per page"
+msgstr "每页图片数量"
+
+#: ../admin/settings.php:399
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 将取消分页，图集中所有图片在同一页内显示"
+
+#: ../admin/settings.php:403
+msgid "Number of columns"
+msgstr "列数"
+
+#: ../admin/settings.php:405
+msgid ""
+"0 will display as much as possible based on the width of your theme. Setting "
+"normally only required for captions below the images"
+msgstr "0 将根据你的主题宽度尽可能多的显示. 一般仅在图片有注释时设置."
+
+#: ../admin/settings.php:409
+msgid "Integrate slideshow"
+msgstr "整合幻灯片"
+
+#: ../admin/settings.php:416
+msgid "Show first"
+msgstr "首先显示"
+
+#: ../admin/settings.php:422
+msgid "Show ImageBrowser"
+msgstr "显示图片浏览器"
+
+#: ../admin/settings.php:424
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "图集将使用图片浏览器而非特效显示"
+
+#: ../admin/settings.php:428
+msgid "Add hidden images"
+msgstr "增加隐藏图片"
+
+#: ../admin/settings.php:430
+msgid ""
+"If pagination is used, this option will still show all images in the modal "
+"window (Thickbox, Lightbox etc.). Note : This increases the page load"
+msgstr ""
+"如果使用分页, 此选项将仍然在浮出窗口(Thickbox, Lightbox等)中显示所有图片. 注"
+"意: 这将增加页面负载"
+
+#: ../admin/settings.php:434
+msgid "Enable AJAX pagination"
+msgstr "启用AJAX分页"
+
+#: ../admin/settings.php:436
+msgid ""
+"Browse images without reload the page. Note : Works only in combination with "
+"Shutter effect"
+msgstr "浏览图片而不必刷新页面. 注意: 仅和百页窗效果合并使用时有效."
+
+#: ../admin/settings.php:440
+msgid "Sort options"
+msgstr "排序设置"
+
+#: ../admin/settings.php:443
+msgid "Sort thumbnails"
+msgstr "缩略图排列"
+
+#: ../admin/settings.php:445
+msgid "Custom order"
+msgstr "自定义顺序"
+
+#: ../admin/settings.php:447
+msgid "File name"
+msgstr "文件名称"
+
+#: ../admin/settings.php:448
+msgid "Alt / Title text"
+msgstr "显示标题"
+
+#: ../admin/settings.php:449
+msgid "Date / Time"
+msgstr "日期/时间"
+
+#: ../admin/settings.php:453
+msgid "Sort direction"
+msgstr "排列顺序"
+
+#: ../admin/settings.php:473
+msgid ""
+"Here you can select the thumbnail effect, NextGEN Gallery will integrate the "
+"required HTML code in the images. Please note that only the Shutter and "
+"Thickbox effect will automatic added to your theme."
+msgstr ""
+"你可以在这里选择缩略图效果，NextGEN Gallery将为你整合HTML代码和图片。请注意只"
+"有百页窗和Thickbox效果会自动添加到你的主题中。"
+
+#: ../admin/settings.php:474
+msgid "With the placeholder"
+msgstr "使用代码容器"
+
+#: ../admin/settings.php:474
+msgid ""
+"you can activate a navigation through the images (depend on the effect). "
+"Change the code line only , when you use a different thumbnail effect or you "
+"know what you do."
+msgstr ""
+"你可以激活各种不同的图片浏览导航功能（具体按效果而定）。请仅在运用非默认缩略"
+"图演示方式，或者你知道自己在做什么的情况下，才改变代码行文字。"
+
+#: ../admin/settings.php:477
+msgid "JavaScript Thumbnail effect"
+msgstr "JavaScript 缩略图效果"
+
+#: ../admin/settings.php:481
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: ../admin/settings.php:482
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../admin/settings.php:483
+msgid "Highslide"
+msgstr "Highslide"
+
+#: ../admin/settings.php:484
+msgid "Shutter"
+msgstr "百叶窗"
+
+#: ../admin/settings.php:485
+msgid "Custom"
+msgstr "自定义"
+
+#: ../admin/settings.php:490
+msgid "Link Code line"
+msgstr "链接代码"
+
+#: ../admin/settings.php:512
+msgid ""
+"Please note : You can only activate the watermark under -> Manage Gallery . "
+"This action cannot be undone."
+msgstr "请注意：你只能在“管理图集”选项中生成水印。水印一旦生成就无法取消。"
+
+#: ../admin/settings.php:517
+msgid "Preview"
+msgstr "预览"
+
+#: ../admin/settings.php:519 ../admin/settings.php:524
+msgid "Position"
+msgstr "位置"
+
+#: ../admin/settings.php:544
+msgid "Offset"
+msgstr "位移"
+
+#: ../admin/settings.php:560
+msgid "Use image as watermark"
+msgstr "图片水印"
+
+#: ../admin/settings.php:563
+msgid "URL to file"
+msgstr "图片URL"
+
+#: ../admin/settings.php:565
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "你的服务器上不支持来自 URL 的文件(allow_url_fopen)"
+
+#: ../admin/settings.php:568
+msgid "Use text as watermark"
+msgstr "文字水印"
+
+#: ../admin/settings.php:571
+msgid "Font"
+msgstr "字体"
+
+#: ../admin/settings.php:580
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "该功能无法启用, 需要 FreeType 函数支持"
+
+#: ../admin/settings.php:582
+msgid ""
+"You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "你可以在 <strong>nggallery/fonts</strong> 目录中添加更多字体"
+
+#: ../admin/settings.php:591
+msgid "Color"
+msgstr "颜色"
+
+#: ../admin/settings.php:593
+msgid "(hex w/o #)"
+msgstr "(HEX颜色代码)"
+
+#: ../admin/settings.php:596
+msgid "Text"
+msgstr "文字"
+
+#: ../admin/settings.php:600
+msgid "Opaque"
+msgstr "透明度"
+
+#: ../admin/settings.php:621
+msgid "Default size (W x H)"
+msgstr "默认尺寸 ( 宽度 x 高度 )"
+
+#: ../admin/settings.php:626
+msgid "Duration time"
+msgstr "停留时间"
+
+#: ../admin/settings.php:627
+msgid "sec."
+msgstr "秒"
+
+#: ../admin/settings.php:630 ../admin/settings.php:705
+msgid "Transition / Fade effect"
+msgstr "过度效果"
+
+#: ../admin/settings.php:633 ../admin/settings.php:708
+msgid "fade"
+msgstr "淡出"
+
+#: ../admin/settings.php:634
+msgid "blindX"
+msgstr "blindX"
+
+#: ../admin/settings.php:635
+msgid "cover"
+msgstr "封面"
+
+#: ../admin/settings.php:636
+msgid "scrollUp"
+msgstr "向上滚动"
+
+#: ../admin/settings.php:637
+msgid "scrollDown"
+msgstr "向下滚动"
+
+#: ../admin/settings.php:638
+msgid "shuffle"
+msgstr "随机"
+
+#: ../admin/settings.php:639
+msgid "toss"
+msgstr "抛出"
+
+#: ../admin/settings.php:640
+msgid "wipe"
+msgstr "清除"
+
+#: ../admin/settings.php:642
+msgid "See here for more information about the effects :"
+msgstr "查看更多关于效果的说明"
+
+#: ../admin/settings.php:646
+msgid "Settings for the JW Image Rotator"
+msgstr "设置JW Image Rotator"
+
+#: ../admin/settings.php:647
+msgid "The settings are only used in the JW Image Rotator Version"
+msgstr "这些设置仅用于JW Image Rotator用到"
+
+#: ../admin/settings.php:648
+msgid "See more information for the Flash Player on the web page"
+msgstr "更多Flash播放器的信息请到网页"
+
+#: ../admin/settings.php:653
+msgid ""
+"The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "未定义imagerotator.swf的路径, 无法启用幻灯片模式."
+
+#: ../admin/settings.php:654
+msgid ""
+"If you would like to use the JW Image Rotatator, please download the player "
+"<a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target="
+"\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-"
+"content/uploads)."
+msgstr ""
+"如果你想使用JW Image Rotator, 请从<a href=\"http://www.longtailvideo.com/"
+"players/jw-image-rotator/\" target=\"_blank\" >这里</a>下载播放器并且上传到你"
+"的上传目录中(默认是wp-content/uploads)."
+
+#: ../admin/settings.php:660
+msgid "Enable flash slideshow"
+msgstr "启用Flash幻灯片"
+
+#: ../admin/settings.php:662
+msgid "Integrate the flash based slideshow for all flash supported devices"
+msgstr "为所有支持Flash的设备集成Flash效果的幻灯片"
+
+#: ../admin/settings.php:665
+msgid "Path to the Imagerotator (URL)"
+msgstr "Imagerotator的路径(URL)"
+
+#: ../admin/settings.php:668
+msgid "Search now"
+msgstr "搜索"
+
+#: ../admin/settings.php:669
+msgid ""
+"Press the button to search automatically for the imagerotator, if you "
+"uploaded it to wp-content/uploads or a subfolder"
+msgstr ""
+"如果已经将Imagerotator上传到了wp-content/uploads或是一个子目录中, 点击此按钮"
+"自动查找它."
+
+#: ../admin/settings.php:673
+msgid "Shuffle mode"
+msgstr "随机模式"
+
+#: ../admin/settings.php:677
+msgid "Show next image on click"
+msgstr "点击显示下一张图片"
+
+#: ../admin/settings.php:681
+msgid "Show navigation bar"
+msgstr "显示导航栏"
+
+#: ../admin/settings.php:685
+msgid "Show loading icon"
+msgstr "显示加载中图标"
+
+#: ../admin/settings.php:689
+msgid "Use watermark logo"
+msgstr "使用水印LOGO"
+
+#: ../admin/settings.php:691
+msgid "You can change the logo at the watermark settings"
+msgstr "你可以在水印设置处修改LOGO"
+
+#: ../admin/settings.php:694
+msgid "Stretch image"
+msgstr "伸展图片"
+
+#: ../admin/settings.php:697
+msgid "true"
+msgstr "是"
+
+#: ../admin/settings.php:698
+msgid "false"
+msgstr "否"
+
+#: ../admin/settings.php:699
+msgid "fit"
+msgstr "自适应"
+
+#: ../admin/settings.php:700
+msgid "none"
+msgstr "无"
+
+#: ../admin/settings.php:709
+msgid "bgfade"
+msgstr "背景淡出"
+
+#: ../admin/settings.php:710
+msgid "slowfade"
+msgstr "慢速淡出"
+
+#: ../admin/settings.php:711
+msgid "circles"
+msgstr "圆圈"
+
+#: ../admin/settings.php:712
+msgid "bubbles"
+msgstr "气泡"
+
+#: ../admin/settings.php:713
+msgid "blocks"
+msgstr "方块"
+
+#: ../admin/settings.php:714
+msgid "fluids"
+msgstr "液体"
+
+#: ../admin/settings.php:715
+msgid "flash"
+msgstr "闪烁"
+
+#: ../admin/settings.php:716
+msgid "lines"
+msgstr "线条"
+
+#: ../admin/settings.php:717
+msgid "random"
+msgstr "随机"
+
+#: ../admin/settings.php:722
+msgid "Use slow zooming effect"
+msgstr "使用慢速缩放效果"
+
+#: ../admin/settings.php:726
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: ../admin/settings.php:731
+msgid "Texts / Buttons Color"
+msgstr "文字/按钮颜色"
+
+#: ../admin/settings.php:736
+msgid "Rollover / Active Color"
+msgstr "经过/活动颜色"
+
+#: ../admin/settings.php:741
+msgid "Screen Color"
+msgstr "筛选颜色"
+
+#: ../admin/settings.php:746
+msgid "Background music (URL)"
+msgstr "背景音乐(URL)"
+
+#: ../admin/settings.php:750
+msgid "Try XHTML validation (with CDATA)"
+msgstr "XHTML规范化检查(CDATA)"
+
+#: ../admin/settings.php:752
+msgid ""
+"Important : Could causes problem at some browser. Please recheck your page."
+msgstr "注意：也许会在某些浏览器中造成问题，请检查你的页面。"
+
+#: ../admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "恢复所有系统选项到安装默认设置。"
+
+#: ../admin/setup.php:26
+msgid ""
+"Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "卸载成功! 请删除插件, 祝您愉快!"
+
+#: ../admin/setup.php:30
+msgid "Reset options"
+msgstr "重置选项"
+
+#: ../admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "恢复所有系统选项到安装默认设置。"
+
+#: ../admin/setup.php:34
+msgid "Reset settings"
+msgstr "重置设置"
+
+#: ../admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n\\nChoose [Cancel] to Stop, [OK] "
+"to proceed.\\n"
+msgstr "重置所有选项到初始化状态 ?\\n\\n选择 [ 取消 ] 停止， [ 确定 ] 执行 \\n"
+
+#: ../admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "卸载插件数据"
+
+#: ../admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "你不喜欢 NextGEN Gallery 吗？"
+
+#: ../admin/setup.php:45
+msgid ""
+"No problem, before you deactivate this plugin press the Uninstall Button, "
+"because deactivating NextGEN Gallery does not remove any data that may have "
+"been created. "
+msgstr ""
+"没问题，请在禁用插件前按卸载按钮，否则 NextGEN Gallery 将不删除任何资料"
+
+#: ../admin/setup.php:47
+msgid "WARNING:"
+msgstr "警告 : "
+
+#: ../admin/setup.php:48
+msgid ""
+"Once uninstalled, this cannot be undone. You should use a Database Backup "
+"plugin of WordPress to backup all the tables first. NextGEN gallery is "
+"stored in the tables"
+msgstr ""
+"一旦卸装，一切数据都将被清除！在此之前，你应该备份相关Wordpress数据表。在以下"
+"数据表中存有“NextGEN相册”的相关数据"
+
+#: ../admin/setup.php:48
+msgid "and"
+msgstr "和"
+
+#: ../admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "卸载插件"
+
+#: ../admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\nThis action is not "
+"reversible.\\n\\nChoose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"您将从 WordPress 中卸载这个插件\\n这个操作时不可逆的\\n\\n选择  [ 取消 ] 停"
+"止， [ 确定 ]  执行卸载\\n"
+
+#: ../admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "Meta信息"
+
+#: ../admin/showmeta.php:34 ../admin/showmeta.php:60 ../admin/showmeta.php:85
+#: ../admin/showmeta.php:109
+msgid "Tag"
+msgstr "标签"
+
+#: ../admin/showmeta.php:35 ../admin/showmeta.php:61 ../admin/showmeta.php:86
+#: ../admin/showmeta.php:110
+msgid "Value"
+msgstr "数值"
+
+#: ../admin/showmeta.php:49
+msgid "No meta data saved"
+msgstr "Meta信息未保存"
+
+#: ../admin/showmeta.php:55
+msgid "EXIF Data"
+msgstr "EXIF 信息"
+
+#: ../admin/showmeta.php:74
+msgid "No exif data"
+msgstr "没有 EXIF 信息"
+
+#: ../admin/showmeta.php:81
+msgid "IPTC Data"
+msgstr "IPTC 信息"
+
+#: ../admin/showmeta.php:105
+msgid "XMP Data"
+msgstr "XMP 信息"
+
+#: ../admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(从主题目录)"
+
+#: ../admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "你没有足够的权限编辑模版"
+
+#: ../admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "CSS 更新成功"
+
+#: ../admin/style.php:89
+msgid "Style Editor"
+msgstr "样式编辑器"
+
+#: ../admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "启用样式表:"
+
+#: ../admin/style.php:113
+msgid "Activate"
+msgstr "启用"
+
+#: ../admin/style.php:123
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "编辑 <strong>%s</strong>"
+
+#: ../admin/style.php:125
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "浏览 <strong>%s</strong>"
+
+#: ../admin/style.php:135
+msgid "Version"
+msgstr "版本"
+
+#: ../admin/style.php:138
+msgid ""
+"Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will "
+"be not lost during a upgrade"
+msgstr "提示:将样式表(nggallery.css)复制到主题目录,可以避免在升级此插件j时丢失"
+
+#: ../admin/style.php:140
+msgid ""
+"Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file "
+"will be used"
+msgstr "你的主题包含NextGEN Gallery样式表(nggallery.css), 它将被使用"
+
+#: ../admin/style.php:142
+msgid ""
+"Tip No. 2: Use the color picker below to help you find the right color "
+"scheme for your gallery!"
+msgstr "提示2: 使用下面的颜色拾取器来帮助你找到适合相册的颜色表"
+
+#: ../admin/style.php:158
+msgid "Update File"
+msgstr "更新文件"
+
+#: ../admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "如果此文件可以写入，您就可以直接编辑。"
+
+#: ../admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "没有找到文件，请确认名称后重试 !"
+
+#: ../admin/tags.php:38
+msgid "Most popular"
+msgstr "最流行"
+
+#: ../admin/tags.php:39
+msgid "Least used"
+msgstr "最后使用"
+
+#: ../admin/tags.php:40
+msgid "Alphabetical"
+msgstr "字母顺序"
+
+#: ../admin/tags.php:96
+msgid "Manage image tags"
+msgstr "管理图片标签"
+
+#: ../admin/tags.php:108
+msgid "Existing Tags"
+msgstr "已有标签"
+
+#: ../admin/tags.php:112
+msgid "Search tags"
+msgstr "搜索标签"
+
+#: ../admin/tags.php:116
+msgid "Go"
+msgstr "开始"
+
+#: ../admin/tags.php:121
+msgid "Sort Order:"
+msgstr "排列顺序:"
+
+#: ../admin/tags.php:156 ../admin/tags.php:160 ../admin/tags.php:173
+msgid "Previous tags"
+msgstr "上一个标签"
+
+#: ../admin/tags.php:169
+msgid "Next tags"
+msgstr "下一个标签"
+
+#: ../admin/tags.php:181
+msgid "Rename Tag"
+msgstr "重命名标签"
+
+#: ../admin/tags.php:189
+msgid ""
+"Enter the tag to rename and its new value.  You can use this feature to "
+"merge tags too. Click \"Rename\" and all posts which use this tag will be "
+"updated."
+msgstr ""
+"输入新名字来重命名标签. 你也可以用此功能合并标签. 点击\"重命名\", 所有使用此"
+"标签的文章都会被更新."
+
+#: ../admin/tags.php:190 ../admin/tags.php:238
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "你可以使用逗号分隔来同时指定多个标签进行重命名"
+
+#: ../admin/tags.php:194
+msgid "Tag(s) to rename:"
+msgstr "需要重命名的标签:"
+
+#: ../admin/tags.php:198
+msgid "New tag name(s):"
+msgstr "标签的新名字:"
+
+#: ../admin/tags.php:201
+msgid "Rename"
+msgstr "重命名"
+
+#: ../admin/tags.php:207
+msgid "Delete Tag"
+msgstr "删除标签"
+
+#: ../admin/tags.php:215
+msgid ""
+"Enter the name of the tag to delete.  This tag will be removed from all "
+"posts."
+msgstr "输入要删除的标签名. 这个标签将从所有文章中删除."
+
+#: ../admin/tags.php:216
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "你可以使用逗号分隔来同时指定多个标签进行删除"
+
+#: ../admin/tags.php:220
+msgid "Tag(s) to delete:"
+msgstr "需要删除的标签:"
+
+#: ../admin/tags.php:229
+msgid "Edit Tag Slug"
+msgstr "编辑标签别名"
+
+#: ../admin/tags.php:237
+msgid ""
+"Enter the tag name to edit and its new slug. <a href=\"http://codex."
+"wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr ""
+"输入新名字来修改标签和别名. <a href=\"http://codex.wordpress.org/"
+"Glossary#Slug\">别名的定义</a>"
+
+#: ../admin/tags.php:242
+msgid "Tag(s) to match:"
+msgstr "符合的标签:"
+
+#: ../admin/tags.php:246
+msgid "Slug(s) to set:"
+msgstr "别名:"
+
+#: ../admin/upgrade.php:22
+msgid "Upgrade database structure..."
+msgstr "升级数据库结构..."
+
+#: ../admin/upgrade.php:108 ../admin/upgrade.php:119 ../admin/upgrade.php:126
+#: ../admin/upgrade.php:137 ../admin/upgrade.php:151
+msgid "finished"
+msgstr "完成"
+
+#: ../admin/upgrade.php:117
+msgid "Update file structure..."
+msgstr "更新文件结构…"
+
+#: ../admin/upgrade.php:124
+msgid "Import date and time information..."
+msgstr "导入日期和时间信息..."
+
+#: ../admin/upgrade.php:132
+msgid "Move imagerotator to new location..."
+msgstr "将Imagerotator移动到新位置…"
+
+#: ../admin/upgrade.php:143
+msgid "Update settings..."
+msgstr "更新设置..."
+
+#: ../admin/upgrade.php:157
+msgid ""
+"Updated widget structure. If you used NextGEN Widgets, you need to setup "
+"them again..."
+msgstr "已经更新小工具结构. 如果你使用了NextGEN小工具, 请重新设置它们…"
+
+#: ../admin/upgrade.php:165 ../admin/upgrade.php:187
+msgid "Updated options."
+msgstr "已更新设置."
+
+#: ../admin/upgrade.php:172
+msgid "Create unique slug"
+msgstr "创建唯一的别名"
+
+#: ../admin/upgrade.php:173
+msgid "One of the upcomming features are a reworked permalinks structure."
+msgstr "其中一个即将推出的功能是重制过的永久链接结构"
+
+#: ../admin/upgrade.php:174
+msgid ""
+"Therefore it's needed to have a unique identifier for each image, gallery "
+"and album."
+msgstr "所以需要为每一个图片,图集和相册设置唯一识别符"
+
+#: ../admin/upgrade.php:175
+msgid ""
+"Depend on the amount of database entries this will take a while, don't "
+"reload this page."
+msgstr "取决于数据条目的数量,此操作将持续一段时间,请不要刷新页面"
+
+#: ../admin/upgrade.php:195
+msgid "Could not find NextGEN Gallery database tables, upgrade failed !"
+msgstr "未找到NextGEN Gallery数据表，升级失败！"
+
+#: ../admin/upgrade.php:258
+msgid ""
+"Some folders/files could not renamed, please recheck the permission and "
+"rescan the folder in the manage gallery section."
+msgstr "一些目录/文件不能被重命名, 请检查权限设置并且在图集管理中重新扫描目录"
+
+#: ../admin/upgrade.php:260
+msgid "Rename failed"
+msgstr "重命名失败"
+
+#: ../admin/upgrade.php:356 ../admin/upgrade.php:375
+msgid "Upgrade NextGEN Gallery"
+msgstr "升级NextGEN Gallery"
+
+#: ../admin/upgrade.php:357
+msgid "The script detect that you upgrade from a older version."
+msgstr "程序发现是从旧版本升级而来."
+
+#: ../admin/upgrade.php:358
+msgid ""
+"Your database tables for NextGEN Gallery is out-of-date, and must be "
+"upgraded before you can continue."
+msgstr "你的NextGEN Gallery数据表过期了, 继续前需要升级."
+
+#: ../admin/upgrade.php:359
+msgid ""
+"If you would like to downgrade later, please make first a complete backup of "
+"your database and the images."
+msgstr "如果你以后想要降级, 请做好整个数据库和图片的备份."
+
+#: ../admin/upgrade.php:360
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "升级过程会持续一小段时间, 请耐心等候."
+
+#: ../admin/upgrade.php:361
+msgid "Start upgrade now"
+msgstr "开始上传"
+
+#: ../admin/upgrade.php:377
+msgid "Upgrade finished..."
+msgstr "升级完成..."
+
+#: ../admin/upgrade.php:378
+msgid "Continue"
+msgstr "继续"
+
+#: ../admin/upgrade.php:401
+#, php-format
+msgid "Rebuild image structure : %s / %s images"
+msgstr "重建图片结构:  %s / %s 图片"
+
+#: ../admin/upgrade.php:402
+#, php-format
+msgid "Rebuild gallery structure : %s / %s galleries"
+msgstr "重建图集结构:  %s / %s 图集"
+
+#: ../admin/upgrade.php:403
+#, php-format
+msgid "Rebuild album structure : %s / %s albums"
+msgstr "重建相册结构:  %s / %s 相册"
+
+#: ../admin/upgrade.php:460
+msgid "Done."
+msgstr "完成"
+
+#: ../admin/wpmu.php:33
+msgid "Update successfully"
+msgstr "更新成功"
+
+#: ../admin/wpmu.php:45
+#, php-format
+msgid ""
+"Thanks for using this plugin, NextGEN Gallery is initially developed for "
+"self hosted blogs. A multisite setup is possible, but cannot currently fully "
+"supported, as it can have several special condition ( i.e. Domain mapping)."
+"<br /> If you would like to support the further development, please consider "
+"a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, "
+"please post your questions <a href=\"http://wordpress.org/tags/nextgen-"
+"gallery?forum_id=10\">here</a> ."
+msgstr ""
+"感谢使用此插件, 希望你满意! 如果你愿意提供研发支持, 请考虑<strong><a href="
+"\"%s\">捐赠</a></strong>! 如果你需要其他帮助, 请将问题提交到<a href=\"http://"
+"wordpress.org/tags/nextgen-gallery?forum_id=10\">这里</a>."
+
+#: ../admin/wpmu.php:62
+msgid "Network Options"
+msgstr "网络选项"
+
+#: ../admin/wpmu.php:70
+msgid ""
+"This is the default path for all blogs. With the placeholder %BLOG_ID% you "
+"can organize the folder structure better."
+msgstr "这是针对所有网站的默认路径, 使用%BLOG_ID%你可以更好的组织目录结构."
+
+#: ../admin/wpmu.php:71
+#, php-format
+msgid "The default setting should be %s"
+msgstr "默认设置应当是 %s"
+
+#: ../admin/wpmu.php:75
+msgid "Enable upload quota check"
+msgstr "允许上传配额检查"
+
+#: ../admin/wpmu.php:77
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "图集在 blog.dir 下才可以运行"
+
+#: ../admin/wpmu.php:81
+msgid "Enable zip upload option"
+msgstr "允许上传 ZIP 文件"
+
+#: ../admin/wpmu.php:83
+msgid "Allow users to upload zip folders."
+msgstr "允许使用者上传 ZIP 文件"
+
+#: ../admin/wpmu.php:87
+msgid "Enable import function"
+msgstr "启用导入功能"
+
+#: ../admin/wpmu.php:89
+msgid "Allow users to import images folders from the server."
+msgstr "允许使用者从服务器导入图片文件夹"
+
+#: ../admin/wpmu.php:93
+msgid "Enable style selection"
+msgstr "允许选择样式"
+
+#: ../admin/wpmu.php:95
+msgid "Allow users to choose a style for the gallery."
+msgstr "允许使用者选择图集的样式"
+
+#: ../admin/wpmu.php:99
+msgid "Enable roles/capabilities"
+msgstr "允许 权限/功能"
+
+#: ../admin/wpmu.php:101
+msgid "Allow users to change the roles for other blog authors."
+msgstr "允许使用者更改其他作者的权限"
+
+#: ../admin/wpmu.php:105
+msgid "Default style"
+msgstr "默认样式"
+
+#: ../admin/wpmu.php:122
+msgid "Choose the default style for the galleries."
+msgstr "选择图集的默认样式"
+
+#: ../admin/tinymce/window.php:56
+msgid "Select or enter gallery"
+msgstr "选择或输入图集"
+
+#: ../admin/tinymce/window.php:61 ../admin/tinymce/window.php:82
+msgid "Show as"
+msgstr "显示"
+
+#: ../admin/tinymce/window.php:62
+msgid "Image list"
+msgstr "图片列表"
+
+#: ../admin/tinymce/window.php:64
+msgid "Imagebrowser"
+msgstr "图片浏览器"
+
+#: ../admin/tinymce/window.php:77
+msgid "Select or enter album"
+msgstr "选择或输入相册"
+
+#: ../admin/tinymce/window.php:83
+msgid "Extended version"
+msgstr "完整模式"
+
+#: ../admin/tinymce/window.php:84
+msgid "Compact version"
+msgstr "精简模式"
+
+#: ../admin/tinymce/window.php:97
+msgid "Select or enter picture"
+msgstr "选择或输入图片"
+
+#: ../admin/tinymce/window.php:102
+msgid "Width x Height"
+msgstr "宽度 x 高度"
+
+#: ../admin/tinymce/window.php:106
+msgid "Effect"
+msgstr "特效"
+
+#: ../admin/tinymce/window.php:109
+msgid "No effect"
+msgstr "无特效"
+
+#: ../admin/tinymce/window.php:111
+msgid "Web 2.0"
+msgstr "倒影"
+
+#: ../admin/tinymce/window.php:116
+msgid "Float"
+msgstr "浮动"
+
+#: ../admin/tinymce/window.php:119
+msgid "No float"
+msgstr "固定"
+
+#: ../admin/tinymce/window.php:138
+msgid "Insert"
+msgstr "插入"
+
+#: ../lib/core.php:407
+#, php-format
+msgid ""
+"Note : Based on your server memory limit you should not upload larger images "
+"then <strong>%d x %d</strong> pixel"
+msgstr ""
+"注意:根据服务器内存限制, 你不可以上传超过 <strong>%d x %d</strong> 像素的图片"
+
+#: ../lib/locale.php:120
+msgid "Invalid URL Provided."
+msgstr "提供的URL无效"
+
+#: ../lib/locale.php:124 ../lib/locale.php:128
+msgid "Could not create Temporary file."
+msgstr "不能创建临时文件"
+
+#: ../lib/meta.php:124
+msgid " mm"
+msgstr "毫米"
+
+#: ../lib/meta.php:130
+msgid " sec"
+msgstr " 秒"
+
+#: ../lib/meta.php:134
+msgid "Fired"
+msgstr "燃烧"
+
+#: ../lib/meta.php:134
+msgid "Not fired"
+msgstr "尚未链接"
+
+#: ../lib/meta.php:430
+msgid "Aperture"
+msgstr "光圈"
+
+#: ../lib/meta.php:431 ../lib/meta.php:456
+msgid "Credit"
+msgstr "作者"
+
+#: ../lib/meta.php:432
+msgid "Camera"
+msgstr "相机"
+
+#: ../lib/meta.php:433
+msgid "Caption"
+msgstr "说明"
+
+#: ../lib/meta.php:435
+msgid "Copyright"
+msgstr "版权"
+
+#: ../lib/meta.php:436
+msgid "Focal length"
+msgstr "焦距"
+
+#: ../lib/meta.php:437
+msgid "ISO"
+msgstr "感光度"
+
+#: ../lib/meta.php:438
+msgid "Shutter speed"
+msgstr "快门速度"
+
+#: ../lib/meta.php:442
+msgid "Subject"
+msgstr "副标题"
+
+#: ../lib/meta.php:443
+msgid "Make"
+msgstr "相机品牌"
+
+#: ../lib/meta.php:444
+msgid "Edit Status"
+msgstr "编辑状态"
+
+#: ../lib/meta.php:445
+msgid "Category"
+msgstr "分类"
+
+#: ../lib/meta.php:446
+msgid "Keywords"
+msgstr "关键词"
+
+#: ../lib/meta.php:447
+msgid "Date Created"
+msgstr "创建日期"
+
+#: ../lib/meta.php:448
+msgid "Time Created"
+msgstr "创建时间"
+
+#: ../lib/meta.php:449
+msgid "Author Position"
+msgstr "作者身份"
+
+#: ../lib/meta.php:450
+msgid "City"
+msgstr "城市"
+
+#: ../lib/meta.php:451
+msgid "Location"
+msgstr "地址"
+
+#: ../lib/meta.php:452
+msgid "Province/State"
+msgstr "省/州"
+
+#: ../lib/meta.php:453
+msgid "Country code"
+msgstr "国家代码"
+
+#: ../lib/meta.php:454
+msgid "Country"
+msgstr "国家"
+
+#: ../lib/meta.php:455
+msgid "Headline"
+msgstr "标题"
+
+#: ../lib/meta.php:457
+msgid "Source"
+msgstr "来源"
+
+#: ../lib/meta.php:458
+msgid "Copyright Notice"
+msgstr "版权"
+
+#: ../lib/meta.php:459
+msgid "Contact"
+msgstr "联系方式"
+
+#: ../lib/meta.php:460
+msgid "Last modified"
+msgstr "最后修改时间"
+
+#: ../lib/meta.php:461
+msgid "Program tool"
+msgstr "修改程序"
+
+#: ../lib/meta.php:462
+msgid "Format"
+msgstr "文件格式"
+
+#: ../lib/meta.php:463
+msgid "Image Width"
+msgstr "图片宽度"
+
+#: ../lib/meta.php:464
+msgid "Image Height"
+msgstr "图片高度"
+
+#: ../lib/meta.php:465
+msgid "Flash"
+msgstr "闪动"
+
+#: ../lib/multisite.php:23
+msgid ""
+"Sorry, you have used your space allocation. Please delete some files to "
+"upload more files."
+msgstr "抱歉, 空间不足. 请删除一些文件后重试."
+
+#: ../lib/ngg-db.php:331 ../lib/ngg-db.php:332
+msgid "Album overview"
+msgstr "相册总览"
+
+#: ../lib/shortcodes.php:311
+msgid "[Pictures not found]"
+msgstr "[图片未找到]"
+
+#: ../lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "未指定新标签!"
+
+#: ../lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "未指定新的/旧的有效的标签!"
+
+#: ../lib/tags.php:86
+msgid "No tag renamed."
+msgstr "没有标签被重命名."
+
+#: ../lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "重命名了标签 &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+
+#: ../lib/tags.php:95
+msgid "No valid new tag."
+msgstr "缺少有效的新标签."
+
+#: ../lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "根据指定旧标签未找到对象(文章或页面)."
+
+#: ../lib/tags.php:141
+msgid "No tag merged."
+msgstr "没有标签被合并."
+
+#: ../lib/tags.php:143
+#, php-format
+msgid ""
+"Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr ""
+"合并标签 &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+
+#: ../lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "错误. 没有足够的标签来重命名或是合并. 请重新选择!"
+
+#: ../lib/tags.php:163
+msgid "No tag specified!"
+msgstr "未指定标签!"
+
+#: ../lib/tags.php:186
+msgid "No tag deleted."
+msgstr "没有标签被删除."
+
+#: ../lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "删除了%1s个标签."
+
+#: ../lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "没有指定新别名!"
+
+#: ../lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "标签数量和别名数量不相等!"
+
+#: ../lib/tags.php:241
+msgid "No slug edited."
+msgstr "没有别名被删除"
+
+#: ../lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "修改了%s个别名."
+
+#: ../lib/xmlrpc.php:66
+#, php-format
+msgid ""
+"XML-RPC services are disabled on this blog.  An admin user can enable them "
+"at %s"
+msgstr "此博客未开启XML-RPC服务. 管理员可以在%s启用它们"
+
+#: ../lib/xmlrpc.php:73
+msgid "Bad login/pass combination."
+msgstr "登录名/密码错误"
+
+#: ../lib/xmlrpc.php:129
+msgid "You are not allowed to upload files to this site."
+msgstr "你无权上传文件"
+
+#: ../lib/xmlrpc.php:135 ../lib/xmlrpc.php:680
+msgid "Could not find gallery "
+msgstr "未找到图集"
+
+#: ../lib/xmlrpc.php:140 ../lib/xmlrpc.php:685
+msgid "You are not allowed to upload files to this gallery."
+msgstr "你无权上传图片至此图集"
+
+#: ../lib/xmlrpc.php:152
+msgid "This is no valid image file."
+msgstr "不是正确的图片文件"
+
+#: ../lib/xmlrpc.php:164
+msgid "Could not find image id "
+msgstr "未找到图片ID"
+
+#: ../lib/xmlrpc.php:171
+#, php-format
+msgid "Failed to delete image %1$s "
+msgstr "删除以下图片失败 %1$s"
+
+#: ../lib/xmlrpc.php:180
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "不能写入文件 %1$s (%2$s)"
+
+#: ../lib/xmlrpc.php:247 ../lib/xmlrpc.php:299
+msgid "Invalid image ID"
+msgstr "无效的图片ID"
+
+#: ../lib/xmlrpc.php:250 ../lib/xmlrpc.php:302
+msgid "Sorry, you must be able to edit this image"
+msgstr "抱歉, 你需要有管理这个图片的权限"
+
+#: ../lib/xmlrpc.php:308
+msgid "Sorry, could not update the image"
+msgstr "抱歉,不能更新图片"
+
+#: ../lib/xmlrpc.php:344 ../lib/xmlrpc.php:576 ../lib/xmlrpc.php:642
+msgid "Sorry, you must be able to manage galleries"
+msgstr "抱歉, 你需要有管理图集的权限"
+
+#: ../lib/xmlrpc.php:350
+msgid "Sorry, could not create the gallery"
+msgstr "抱歉,不能创建图集"
+
+#: ../lib/xmlrpc.php:393 ../lib/xmlrpc.php:573
+msgid "Invalid gallery ID"
+msgstr "无效的图集名称"
+
+#: ../lib/xmlrpc.php:396
+msgid "Sorry, you must be able to manage this gallery"
+msgstr "抱歉, 你需要有管理这个图集的权限"
+
+#: ../lib/xmlrpc.php:402
+msgid "Sorry, could not update the gallery"
+msgstr "抱歉,不能更新图集"
+
+#: ../lib/xmlrpc.php:442 ../lib/xmlrpc.php:494 ../lib/xmlrpc.php:536
+#: ../lib/xmlrpc.php:609
+msgid "Sorry, you must be able to manage albums"
+msgstr "抱歉, 你需要有管理相册的权限"
+
+#: ../lib/xmlrpc.php:448
+msgid "Sorry, could not create the album"
+msgstr "抱歉,不能创建相册"
+
+#: ../lib/xmlrpc.php:491 ../lib/xmlrpc.php:533
+msgid "Invalid album ID"
+msgstr "无效的相册ID"
+
+#: ../lib/xmlrpc.php:500
+msgid "Sorry, could not update the album"
+msgstr "抱歉,不能更新相册"
+
+#: ../view/album-compact.php:32 ../view/album-extend.php:30
+msgid "Photos"
+msgstr "张图片"
+
+#: ../view/gallery-caption.php:32 ../view/gallery.php:32
+#: ../widgets/media-rss-widget.php:122
+msgid "[View with PicLens]"
+msgstr "[使用PicLens查看]"
+
+#: ../view/imagebrowser-caption.php:26 ../view/imagebrowser-exif.php:30
+#: ../view/imagebrowser.php:26
+msgid "Back"
+msgstr "上一张"
+
+#: ../view/imagebrowser-caption.php:29 ../view/imagebrowser-exif.php:33
+#: ../view/imagebrowser.php:29
+msgid "Next"
+msgstr "下一张"
+
+#: ../view/imagebrowser-caption.php:31 ../view/imagebrowser-exif.php:35
+#: ../view/imagebrowser.php:31
+msgid "of"
+msgstr "的"
+
+#: ../view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "Meta信息"
+
+#: ../view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "相机/类型"
+
+#: ../view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "焦距"
+
+#: ../widgets/media-rss-widget.php:19
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "显示NextGEN Gallery资讯RSS的小工具."
+
+#: ../widgets/media-rss-widget.php:20
+msgid "NextGEN Media RSS"
+msgstr "NextGEN资讯"
+
+#: ../widgets/media-rss-widget.php:68
+msgid "Media RSS"
+msgstr "资讯RSS"
+
+#: ../widgets/media-rss-widget.php:69
+msgid "Link to the main image feed"
+msgstr "链接至主图片feed"
+
+#: ../widgets/media-rss-widget.php:79 ../widgets/widgets.php:201
+msgid "Title :"
+msgstr "标题 :"
+
+#: ../widgets/media-rss-widget.php:87
+msgid "Show Media RSS icon"
+msgstr "显示资讯RSS图标"
+
+#: ../widgets/media-rss-widget.php:93
+msgid "Show the Media RSS link"
+msgstr "显示资讯RSS链接"
+
+#: ../widgets/media-rss-widget.php:98
+msgid "Text for Media RSS link:"
+msgstr "资讯RSS链接的文字:"
+
+#: ../widgets/media-rss-widget.php:104
+msgid "Tooltip text for Media RSS link:"
+msgstr "资讯RSS链接的提示文字:"
+
+#: ../widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "显示NextGEN Gallery幻灯片"
+
+#: ../widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "NextGEN幻灯片"
+
+#: ../widgets/widgets.php:64
+msgid ""
+"<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash "
+"Player</a> to see the slideshow."
+msgstr ""
+"显示幻灯片需要<a href=\"http://www.macromedia.com/go/getflashplayer\">安装"
+"Flash插件</a>."
+
+#: ../widgets/widgets.php:121
+msgid "Title:"
+msgstr "标题"
+
+#: ../widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "选择图集"
+
+#: ../widgets/widgets.php:125
+msgid "All images"
+msgstr "全部图片"
+
+#: ../widgets/widgets.php:137
+msgid "Height:"
+msgstr "高度"
+
+#: ../widgets/widgets.php:138
+msgid "Width:"
+msgstr "宽度"
+
+#: ../widgets/widgets.php:160
+msgid "Add recent or random images from the galleries"
+msgstr "从图集添加最近或随机的图片"
+
+#: ../widgets/widgets.php:161
+msgid "NextGEN Widget"
+msgstr "NextGEN Gallery小工具"
+
+#: ../widgets/widgets.php:207
+msgid "Show :"
+msgstr "显示 :"
+
+#: ../widgets/widgets.php:213
+msgid "Original images"
+msgstr "原始图片"
+
+#: ../widgets/widgets.php:222
+msgid "recent added "
+msgstr "最近新增"
+
+#: ../widgets/widgets.php:228
+msgid "Enable IE8 Web Slices"
+msgstr "开启IE8 Web Slices"
+
+#: ../widgets/widgets.php:233
+msgid "Width x Height :"
+msgstr "宽度 x 高度 :"
+
+#: ../widgets/widgets.php:239
+msgid "Select :"
+msgstr "选择 :"
+
+#: ../widgets/widgets.php:241
+msgid "All galleries"
+msgstr "所有图集"
+
+#: ../widgets/widgets.php:242
+msgid "Only which are not listed"
+msgstr "未被列出的"
+
+#: ../widgets/widgets.php:243
+msgid "Only which are listed"
+msgstr "仅被列出的"
+
+#: ../widgets/widgets.php:249
+msgid "Gallery ID :"
+msgstr "图集 ID :"
+
+#: ../widgets/widgets.php:251
+msgid "Gallery IDs, separated by commas."
+msgstr "图集 ID, 使用 \",\"间隔"
+
+#: ../xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "目前未有任何图集."
+
+#: ../xml/media-rss.php:69
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "图集 ID=%s 不存在."
+
+#: ../xml/media-rss.php:100
+msgid "No album ID has been provided as parameter"
+msgstr "未提供相册ID参数"
+
+#: ../xml/media-rss.php:108
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "相册 ID=%s 不存在."
+
+#: ../xml/media-rss.php:115
+msgid "Invalid MediaRSS command"
+msgstr "无效的资讯RSS命令."
+
+#~ msgid ""
+#~ "NextGEN Gallery is primarily developed, maintained, supported and "
+#~ "documented by <a href=\"http://www.photocrati.com\" target=\"_blank"
+#~ "\">Photocrati Media</a>. We'd like to offer a special thanks to Alex "
+#~ "Rabe, who first developed the plugin and maintained it through 2011. "
+#~ "There are many others who have made contributions:"
+#~ msgstr ""
+#~ "NextGen Gallery由<a href=\"http://www.photocrati.com\" target=\"_blank"
+#~ "\">Photocrati Media</a>主力开发,维护,提供技术和文档支持. 我们特别感谢Alex "
+#~ "Rabe创造了此插件并维护至2011年. 也有很多其他人做出了贡献: "
+
+#~ msgid "There are several ways to contribute:"
+#~ msgstr "有几种方式支持我们:"
+
+#~ msgid "Yes, sharing and linking are also supportive and helpful."
+#~ msgstr "是的, 分享和链接也是支持并且是有帮助的."
+
+#~ msgid ""
+#~ "<a href=\"http://www.nextgen-gallery.com\" target=\"_blank"
+#~ "\">Introduction</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.nextgen-gallery.com\" target=\"_blank\">介绍</a>"
+
+#~ msgid "Visit the plugin homepage"
+#~ msgstr "访问插件主页"
+
+#~ msgid "Cache single pictures"
+#~ msgstr "缓存单张图片"
+
+#~ msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+#~ msgstr "针对单张图片的设置建立一个档案. 可以减轻 CPU 负荷"
+
+#~ msgid "&laquo;"
+#~ msgstr "&laquo;"
+
+#~ msgid "&raquo;"
+#~ msgstr "&raquo;"
+
+#~ msgid "Displaying %s&#8211;%s of %s"
+#~ msgstr "正在显示 %s&#8211;%s / %s"
+
+#~ msgid "Send a gift to show your appreciation."
+#~ msgstr "发送一份礼物表示感谢"
+
+#~ msgid "Currently not used, prepare database for upcoming version"
+#~ msgstr "目前未使用,为下一个版本准备的数据库"
+
+#~ msgid "Delete album ?"
+#~ msgstr "删除相册?"
+
+#~ msgid "A new version of NextGEN Gallery is available !"
+#~ msgstr "有新版本 NextGEN Gallery 可以升级!"
+
+#~ msgid "Download here"
+#~ msgstr "点击下载"
+
+#~ msgid "already exists"
+#~ msgstr "已经存在"
+
+#~ msgid "Gallery Overview"
+#~ msgstr "图集总览"
+
+#~ msgid "Quantity"
+#~ msgstr "张数"
+
+#~ msgid "Action"
+#~ msgstr "动作"
+
+#~ msgid "Delete this gallery ?"
+#~ msgstr "删除图集？"
+
+#~ msgid "General WordPress MU Settings"
+#~ msgstr "WordPress MU 一般设置"
+
+#~ msgid "No album"
+#~ msgstr "没有相册"
+
+#~ msgid "for the Fugue Iconset"
+#~ msgstr "提供Fugue Iconset"
+
+#~ msgid "Gallery Administrator"
+#~ msgstr "图集管理员"
+
+#~ msgid "Gallery Editor"
+#~ msgstr "图集编辑员"
+
+#~ msgid "You currently have %s rights."
+#~ msgstr "你现在拥有 %s 权限."
+
+#~ msgid "Upload Space Remaining:"
+#~ msgstr "剩余上传空间 :"
+
+#~ msgid "Upgrade sucessful"
+#~ msgstr "升级成功"
+
+#~ msgid "View all images tagged with %s"
+#~ msgstr "查看所有标签为 %s 的图片"
+
+#~ msgid "Setup Gallery"
+#~ msgstr "安装图集"
+
+#~ msgid "Setup"
+#~ msgstr "安装"
+
+#~ msgid "PHP Output Buffer Size"
+#~ msgstr "PHP输出缓存大小"
+
+#~ msgid "for PclZip , a PHP library that manage ZIP archives"
+#~ msgstr "提供 PclZip，管理ZIP存档的PHP库"
+
+#~ msgid "Crop square thumbnail from image"
+#~ msgstr "从图片中裁减缩略图"
+
+#~ msgid "Create square thumbnails, use only the width setting :"
+#~ msgstr "按宽度生成正方形的缩略图："
+
+#~ msgid "Album Page ID"
+#~ msgstr "相册页面 ID"

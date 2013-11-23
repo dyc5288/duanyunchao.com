@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /bug.duanyunchao.com/
+Disallow: /cgi-bin/
+Disallow: /duanyunchao.cn/
+Disallow: /fangnaichang.com/
+Disallow: /images/
+Disallow: /js/
+Disallow: /loty.duanyunchao.com/
+Disallow: /love.duanyunchao.com/
+Disallow: /static/
+Disallow: /weiyun.hk/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /微云.中国/

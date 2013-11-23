@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-T-WAP\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-11-04 21:00+0800\n"
+"Last-Translator: neot <tanggaowei@gmail.com>\n"
+"Language-Team: TangGaowei.com <tanggaowei@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:57
+msgid "Last Comments"
+msgstr "最新评论"
+
+#: index.php:54
+msgid "Categories"
+msgstr "分类"
+
+#: index.php:36
+msgid "Category"
+msgstr "分类"
+
+msgid "Tags"
+msgstr "标签"
+
+#: index.php:36
+msgid "Tag"
+msgstr "标签"
+
+#: index.php:45
+msgid "No Comments"
+msgstr "没有评论"
+
+#: index.php:45
+msgid "1 Comment"
+msgstr "1 个评论"
+
+#: index.php:45
+msgid "% Comments"
+msgstr "% 个评论"
+
+msgid "Page Up"
+msgstr "上一页"
+
+msgid "Page Down"
+msgstr "下一页"
+
+msgid "Hot Posts"
+msgstr "热门日志"
+
+#: index.php:144
+msgid "Title"
+msgstr "标题"
+
+#: index.php:144
+msgid "Time"
+msgstr "时间"
+
+#: index.php:144
+msgid "Author"
+msgstr "作者"
+
+#: index.php:144
+msgid "Operation"
+msgstr "操作"
+
+#: index.php:144
+msgid "Delete"
+msgstr "删除"
+
+#: index.php:144
+msgid "Previous Post"
+msgstr "上一篇"
+
+#: index.php:144
+msgid "Next Post"
+msgstr "下一篇"
+
+#: index.php:153
+msgid "No Posts Matched Your Criteria"
+msgstr "没有符合条件的日志"
+
+#: functions.php:560
+msgid "No Posts"
+msgstr "无数"
+
+#: functions.php:652
+msgid "Home"
+msgstr "首页"
+
+msgid "Return Home"
+msgstr "返回首页"
+
+#: functions.php:652
+msgid "Login"
+msgstr "登录"
+
+#: functions.php:669
+msgid "Logout"
+msgstr "注销"
+
+#: functions.php:664
+msgid "New Post"
+msgstr "创建新日志"
+
+#: functions.php:667
+msgid "Approve Comments"
+msgstr "管理评论"
+
+#: functions.php:836
+msgid "Post"
+msgstr "日志"
+
+#: functions.php:838
+msgid "IP"
+msgstr "IP"
+
+#: functions.php:838
+msgid "Site"
+msgstr "网站"
+
+msgid "Website"
+msgstr "网站"
+
+#: edit-comments.php:31
+msgid "All"
+msgstr "全部"
+
+#: edit-comments.php:31
+msgid "Pending"
+msgstr "未审核"
+
+#: functions.php:583
+msgid "Approved"
+msgstr "已审核"
+
+msgid "Spam"
+msgstr "垃圾评论"
+
+msgid "No comments found."
+msgstr "找不到符合搜索条件的评论"
+
+msgid "Comments are closed."
+msgstr "评论功能被关闭"
+
+msgid "Comments Closed"
+msgstr "评论关闭"
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "Comment(s)"
+msgstr "评论"
+
+msgid "Comment"
+msgstr "评论"
+
+msgid "Post Comment"
+msgstr "发表评论"
+
+msgid "Comment Author"
+msgstr "评论人"
+
+msgid "Comment Time"
+msgstr "评论时间"
+
+msgid "'s Comment(s)"
+msgstr "的评论"
+
+msgid "Mail (will not be published)"
+msgstr "邮件 (不会被公开)"
+
+msgid "(required)"
+msgstr "(必填)"
+
+msgid "Discussion"
+msgstr "评论"
+
+msgid "Allow Comments"
+msgstr "允许评论"
+
+msgid "Allow Pings"
+msgstr "允许引用"
+
+msgid "You do not have sufficient permission to new posts."
+msgstr "您没有添加日志的权限。"
+
+msgid "Post saved."
+msgstr "日志已保存。"
+
+msgid "View post &raquo;"
+msgstr "查看日志 &raquo;"
+
+msgid "Publish"
+msgstr "发布"
+
+msgid "Submit for Review"
+msgstr "提交审核"
+
+msgid "Username:"
+msgstr "用户名："
+
+msgid "Password:"
+msgstr "密码："
+
+msgid "Remember me"
+msgstr "记住密码"
+
+msgid "Not find related posts!<br> ( If you have any questions, please email to tanggaowei@gmail.com, and append the site url，thanks!)"
+msgstr "未找到相关日志！<br>（如有问题，请 email : tanggaowei@gmail.com，并注明可查看此页面的网址，谢谢！）"
+
+msgid "Successfully logged you out."
+msgstr "已成功注销。"
+
+msgid "User registration is currently not allowed."
+msgstr "不允许用户注册。"
+
+msgid "Check your e-mail for the confirmation link."
+msgstr "请查看邮件，并通过邮件里的链接进行确认。"
+
+msgid "Check your e-mail for your new password."
+msgstr "请查看邮件里的密码。"
+
+msgid "Registration complete. Please check your e-mail."
+msgstr "注册完成。请查看邮件。"
+
+msgid "Display"
+msgstr "显示"
+
+msgid "Display HTML"
+msgstr "以HTML格式显示日志的详细信息"
+
+msgid "Display related posts"
+msgstr "显示相关日志"
+
+msgid "Display hot posts"
+msgstr "显示热门日志"
+
+msgid "Display last comments"
+msgstr "显示最新评论"
+
+msgid "Wap Site Title"
+msgstr "网站标题"
+
+msgid "Copyright Information"
+msgstr "版权信息"
+
+msgid "WP-T-WAP Setup"
+msgstr "WP-T-WAP 插件设置"
+
+msgid "Manage Posts|manage posts header"
+msgstr "管理日志|管理日志头"
+
+msgid "Manage Posts"
+msgstr "管理日志"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit Post"
+msgstr "编辑日志"
+
+msgid "Edit post"
+msgstr "编辑日志"
+
+msgid "Write Post"
+msgstr "撰写日志"
+
+msgid "Append"
+msgstr "续写"
+
+msgid "Append Post"
+msgstr "续写日志"
+
+msgid "Append post"
+msgstr "续写日志"
+
+msgid "Save Appendix"
+msgstr "保存续写"
+
+msgid "Save"
+msgstr "保存日志"
+
+msgid "Published"
+msgstr "已发布"
+
+msgid "Unpublished"
+msgstr "未发布"
+
+msgid "Publish Status"
+msgstr "发布状态"
+
+msgid "Delete post"
+msgstr "删除日志"
+
+msgid "View this Post"
+msgstr "浏览日志"
+
+msgid "View"
+msgstr "浏览"
+
+msgid "Last edited by %1$s on %2$s at %3$s"
+msgstr "最后由 %1$s 在 %2$s %3$s 编辑"
+
+msgid "Last edited on %1$s at %2$s"
+msgstr "最后编辑时间：%1$s %2$s"
+
+msgid "Picture"
+msgstr "图片"
+
+msgid "Before Text"
+msgstr "置于文字之前"
+
+msgid "Search Posts"
+msgstr "搜索日志"
+
+msgid "Auto add '&lt;br&gt;' tag"
+msgstr "自动添加 '&lt;br&gt;' 标签"
+
+msgid "Pages:"
+msgstr "分页:"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Text"
+msgstr "文字"
+
+msgid ""
+"You are about to delete this post '%s'\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr "您确定要删除文件“%title%”？<br>点“确认”删除，点“取消”取消操作。"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "OK"
+msgstr "确认"
+
+msgid "Insert a Blank Line"
+msgstr "插入空白行"
+

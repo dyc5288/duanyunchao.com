@@ -1,0 +1,8 @@
+
+# BEGIN WordPress
+
+allow from 119.145.100
+allow from 14.217
+allow from 113
+deny from all
+# END WordPress
