@@ -55,7 +55,7 @@ msgid ""
 msgstr ""
 
 #: postviews-options.php:125 wp-postviews.php:797
-msgid "%VIEW_COUNT%"
+msgid "%VIEW_COUNT% views"
 msgstr ""
 
 #: postviews-options.php:128 wp-postviews.php:798
