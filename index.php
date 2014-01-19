@@ -105,7 +105,7 @@ function get_client_ip()
 }
 
 $GLOBALS['ip'] = get_client_ip();
-require('./cls_iplocation.php');
+require('./wp/cls_iplocation.php');
 $cls_iplocation = new cls_iplocation($GLOBALS['ip']);
 $countrycode = $cls_iplocation->get_countrycode();
 
@@ -144,4 +144,4 @@ if(is_wap())
 }
 
 /** Loads the WordPress Environment and Template */
-require('./wp-blog-header.php');
+require('./wp/wp-blog-header.php');
