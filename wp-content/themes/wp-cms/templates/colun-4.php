@@ -121,5 +121,4 @@
   </div>
 </div>
 <div class="clear"></div>
-</div>
-  <?php endif; ?><!-- End -->
+</div><?php endif; ?><!-- End -->

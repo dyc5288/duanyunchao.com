@@ -1,7 +1,3 @@
-﻿	<?php
-	$options = get_option('newspoon_options');
- ?>
-<!-- Begin link-list -->
 <?php if ($options['link-list'] && $options['link-list_content']) : ?>
 <div class="wrapper mT5">
   <div id="partner">
