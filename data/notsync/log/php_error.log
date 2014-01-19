@@ -1,0 +1,6 @@
+测试[15-Nov-2013 17:12:57 UTC] PHP Notice:  Undefined index: gearman_passport in /vagrant/php.dyc.com/library/lib_func.php on line 913
+[16-Nov-2013 10:20:30 UTC] PHP Fatal error:  Call to undefined function path_exists() in /vagrant/php.dyc.com/library/lib_template.php on line 44
+[16-Nov-2013 10:57:34 UTC] PHP Fatal error:  Call to undefined function path_exists() in /vagrant/php.dyc.com/library/lib_template.php on line 44
+[16-Nov-2013 10:59:42 UTC] PHP Fatal error:  Call to undefined function path_exists() in /vagrant/php.dyc.com/library/lib_template.php on line 44
+[16-Nov-2013 12:58:23 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /vagrant/php.dyc.com/model/pub_mod_test.php on line 22
+[16-Nov-2013 12:58:32 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /vagrant/php.dyc.com/model/pub_mod_test.php on line 22
