@@ -112,11 +112,13 @@
        <div class="list-post clear" style="padding-bottom:8px">
 	  <ul>               <!--调取分类ID 6的(除最新一篇之外)最新10篇文章-->
 	   <?php if (function_exists('get_most_viewed')): ?> 
-<?php get_most_viewed('post',9); ?> 
+<?php get_most_viewed('post',9,12); ?> 
 <?php endif; ?>
 </ul>
       </div>
+    <div class="bg_buttom">
       <div class="bg_buttom_r"></div>
+    </div>
     </div>
   </div>
 </div>
